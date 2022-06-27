@@ -1,0 +1,38 @@
+2022-05-10 11:39:00,564 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-05-10 11:39:00,568 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Solutions/ccs-enterprise-automation-ui-project/screenshots/ 
+2022-05-10 11:39:00,570 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Solutions/ccs-enterprise-automation-ui-project/target/html-report/ 
+2022-05-10 11:39:00,572 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Solutions/ccs-enterprise-automation-ui-project/target/html-report/ 
+2022-05-10 11:39:01,079 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Solutions/ccs-enterprise-automation-ui-project/src/test/resources/objectRepository/ 
+2022-05-10 11:39:01,079 INFO  [TestBase] Obj repository:2 
+2022-05-10 11:39:01,089 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-05-10 11:39:40,446 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-05-10 11:39:40,446 INFO  [Log] **************************************************************************************** 
+2022-05-10 11:39:40,447 INFO  [Log] 				TC001_SIGNIN START 
+2022-05-10 11:39:40,447 INFO  [Log] **************************************************************************************** 
+2022-05-10 11:39:40,448 INFO  [Log] **************************************************************************************** 
+2022-05-10 11:39:40,576 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-05-10 11:39:40,948 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-05-10 11:39:40,948 INFO  [Log] **************************************************************************************** 
+2022-05-10 11:39:40,949 INFO  [Log] 				TC002_SIGNUP START 
+2022-05-10 11:39:40,950 INFO  [Log] **************************************************************************************** 
+2022-05-10 11:39:40,951 INFO  [Log] **************************************************************************************** 
+2022-05-10 11:39:40,953 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-05-10 11:39:55,238 INFO  [Executor] Keyword: HighlightElement Value:  
+2022-05-10 11:39:55,415 INFO  [Executor] Keyword: SaveElemText Value:  
+2022-05-10 11:39:55,462 INFO  [Executor] Keyword: VerifyWithSavedValue Value: elm_message 
+2022-05-10 11:39:55,568 INFO  [TestBase] Closing all the browser. 
+2022-05-10 11:39:55,873 INFO  [Executor] Keyword: HighlightElement Value:  
+2022-05-10 11:39:56,214 INFO  [TestBase] Closing all the browser. 
+2022-05-10 11:39:57,881 INFO  [Log] **************************************************************************************** 
+2022-05-10 11:39:57,881 INFO  [Log] **************************************************************************************** 
+2022-05-10 11:39:57,881 INFO  [Log] 				TC001_SIGNIN PASS 
+2022-05-10 11:39:57,882 INFO  [Log] **************************************************************************************** 
+2022-05-10 11:39:57,882 INFO  [Log] **************************************************************************************** 
+2022-05-10 11:39:57,920 INFO  [Log] **************************************************************************************** 
+2022-05-10 11:39:57,920 INFO  [Log] **************************************************************************************** 
+2022-05-10 11:39:57,920 INFO  [Log] 				TC002_SIGNUP PASS 
+2022-05-10 11:39:57,920 INFO  [Log] **************************************************************************************** 
+2022-05-10 11:39:57,920 INFO  [Log] **************************************************************************************** 
