@@ -1,2 +1,46 @@
 
 .DS_Store
+target/CCS-Web-Project-1.0.0.jar
+target/maven-archiver/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/surefire-reports/bullet_point.png
+target/surefire-reports/CCS Suite/CCS Test 1.html
+target/surefire-reports/CCS Suite/CCS Test 1.xml
+target/surefire-reports/CCS Suite/CCS Test 2.html
+target/surefire-reports/CCS Suite/CCS Test 2.xml
+target/surefire-reports/CCS Suite/CCS Test 3.html
+target/surefire-reports/CCS Suite/CCS Test 3.xml
+target/surefire-reports/collapseall.gif
+target/surefire-reports/emailable-report.html
+target/surefire-reports/failed.png
+target/surefire-reports/index.html
+target/surefire-reports/jquery-1.7.1.min.js
+target/surefire-reports/junitreports/TEST-com.ccs.runner.TestExecutor.xml
+target/surefire-reports/navigator-bullet.png
+target/surefire-reports/old/CCS Suite/CCS Test 1.properties
+target/surefire-reports/old/CCS Suite/CCS Test 2.properties
+target/surefire-reports/old/CCS Suite/CCS Test 3.properties
+target/surefire-reports/old/CCS Suite/classes.html
+target/surefire-reports/old/CCS Suite/groups.html
+target/surefire-reports/old/CCS Suite/index.html
+target/surefire-reports/old/CCS Suite/main.html
+target/surefire-reports/old/CCS Suite/methods-alphabetical.html
+target/surefire-reports/old/CCS Suite/methods-not-run.html
+target/surefire-reports/old/CCS Suite/methods.html
+target/surefire-reports/old/CCS Suite/reporter-output.html
+target/surefire-reports/old/CCS Suite/testng.xml.html
+target/surefire-reports/old/CCS Suite/toc.html
+target/surefire-reports/old/index.html
+target/surefire-reports/passed.png
+target/surefire-reports/skipped.png
+target/surefire-reports/TEST-TestSuite.xml
+target/surefire-reports/testng-reports.css
+target/surefire-reports/testng-reports.js
+target/surefire-reports/testng-results.xml
+target/surefire-reports/testng.css
+target/surefire-reports/TestSuite.txt
+target/test-classes/browserstack.config.json
+target/test-classes/data/TestDataSheet.xlsx
+target/test-classes/objectRepository/dashboard.properties
+target/test-classes/objectRepository/home.properties
