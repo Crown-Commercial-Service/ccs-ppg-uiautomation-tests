@@ -1,0 +1,31 @@
+{
+  "server": "hub.browserstack.com",
+  "user": "mibinboban_SD8s0p",
+  "key": "MwJNdNmGaAAL152GCvpJ",
+  "capabilities": {
+    "project": "PPG",
+    "build": "ccs-ppg-test-build-",
+    "name": "sample tests",
+    "browserstack.debug": true
+  },
+  "environments": {
+    "env1": {
+      "browser": "chrome",
+      "browserVersion": "latest",
+      "os": "Windows",
+      "osVersion": "10"
+    },
+    "env2": {
+      "browser": "firefox",
+      "browserVersion": "latest",
+      "os": "Windows",
+      "osVersion": "10"
+    },
+    "env3": {
+      "browser": "safari",
+      "browserVersion": "latest",
+      "os": "OS X",
+      "osVersion": "Big Sur"
+    }
+  }
+}
