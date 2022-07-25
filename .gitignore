@@ -44,3 +44,11 @@ target/test-classes/browserstack.config.json
 target/test-classes/data/TestDataSheet.xlsx
 target/test-classes/objectRepository/dashboard.properties
 target/test-classes/objectRepository/home.properties
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+logfile.log
+.idea/workspace.xml
+logfile.log
