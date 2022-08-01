@@ -13,7 +13,7 @@
 		<repository>
 			<id>mvn-repo</id>
 			<name>ccs repo</name>
-			<url>https://github.com/Crown-Commercial-Service/ccs-enterprise-automation/</url>
+			<url>https://raw.github.com/Crown-Commercial-Service/ccs-enterprise-automation/main/mvn-repo/</url>
 		</repository>
 	</repositories>
 	<build>
