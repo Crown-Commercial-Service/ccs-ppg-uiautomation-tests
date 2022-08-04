@@ -1,7 +1,5 @@
 {
   "server": "hub-cloud.browserstack.com",
-  "user": "mibinboban_SD8s0p",
-  "key": "MwJNdNmGaAAL152GCvpJ",
   "capabilities": {
     "project": "PPG",
     "build": "ccs-ppg-unitTest-build-",
