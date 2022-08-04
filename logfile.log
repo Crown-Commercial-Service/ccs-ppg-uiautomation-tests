@@ -1671,3 +1671,421 @@ com.ccs.masterExceptions.InvalidKeywordException: Invalid Keyword
 2022-08-04 12:28:54,598 INFO  [Log] 				TC001_REGISTERORGANISATION PASS 
 2022-08-04 12:28:54,598 INFO  [Log] **************************************************************************************** 
 2022-08-04 12:28:54,598 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:57:33,152 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-04 13:57:33,156 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-04 13:57:33,158 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 13:57:33,160 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 13:57:33,866 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2022-08-04 13:57:33,866 INFO  [TestBase] Obj repository:7 
+2022-08-04 13:57:33,886 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 13:57:33,886 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 13:57:33,886 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 13:57:33,886 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 13:57:33,886 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 13:57:33,916 INFO  [TestBase] http://null:null@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 13:57:33,916 INFO  [TestBase] http://null:null@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 13:57:33,916 INFO  [TestBase] http://null:null@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 13:57:33,916 INFO  [TestBase] http://null:null@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 13:57:33,916 INFO  [TestBase] http://null:null@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 13:58:19,396 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-04 13:58:19,401 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-04 13:58:19,402 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 13:58:19,404 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 13:58:20,052 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2022-08-04 13:58:20,053 INFO  [TestBase] Obj repository:7 
+2022-08-04 13:58:20,082 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 13:58:20,082 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 13:58:20,082 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 13:58:20,082 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 13:58:20,082 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 13:58:20,108 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 13:58:20,108 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 13:58:20,108 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 13:58:20,108 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 13:58:20,108 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 13:58:29,961 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-04 13:58:29,962 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:29,962 INFO  [Log] 				TC001_REGISTERORGANISATION START 
+2022-08-04 13:58:29,962 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:29,962 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:30,044 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-04 13:58:30,044 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:30,045 INFO  [Log] 				TC001_REGISTERORGANISATION START 
+2022-08-04 13:58:30,045 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:30,045 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:30,063 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:30,063 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:30,139 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-04 13:58:30,139 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:30,139 INFO  [Log] 				TC001_REGISTERORGANISATION START 
+2022-08-04 13:58:30,139 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:30,139 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:30,140 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:30,222 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:30,252 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:30,984 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:31,102 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:31,562 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:31,706 INFO  [Executor] Keyword: EnterRandomText Value:  
+2022-08-04 13:58:31,707 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:31,948 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:32,020 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:32,123 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-04 13:58:32,166 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:32,421 INFO  [Executor] Keyword: EnterValue Value: User 
+2022-08-04 13:58:32,502 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:32,671 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:32,677 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-04 13:58:32,872 INFO  [Executor] Keyword: EnterRandomText Value:  
+2022-08-04 13:58:32,953 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:33,113 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:33,287 INFO  [Executor] Keyword: EnterRandomText Value:  
+2022-08-04 13:58:33,345 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:33,412 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-04 13:58:33,453 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-04 13:58:33,453 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:33,454 INFO  [Log] 				TC001_REGISTERORGANISATION START 
+2022-08-04 13:58:33,454 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:33,454 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:33,455 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:33,626 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:33,839 INFO  [Executor] Keyword: EnterValue Value: User 
+2022-08-04 13:58:33,862 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-04 13:58:34,091 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:34,212 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-04 13:58:34,360 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:34,455 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:34,456 INFO  [Executor] Keyword: EnterValue Value: User 
+2022-08-04 13:58:34,512 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-04 13:58:34,512 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:34,512 INFO  [Log] 				TC001_REGISTERORGANISATION START 
+2022-08-04 13:58:34,512 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:34,512 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:34,513 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:34,649 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:34,732 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-04 13:58:34,752 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:34,964 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:35,032 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:35,128 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:35,287 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:35,356 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:35,428 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:35,462 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:35,509 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:35,621 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:35,637 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:35,677 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:35,739 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:35,822 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:35,839 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:35,860 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:35,931 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:36,011 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:36,019 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:36,135 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:36,176 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:36,226 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:36,303 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:36,303 INFO  [Executor] Keyword: EnterRandomText Value:  
+2022-08-04 13:58:36,313 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:36,348 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:36,429 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:36,478 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:36,499 INFO  [Executor] Keyword: EnterRandomText Value:  
+2022-08-04 13:58:36,631 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:36,700 INFO  [Executor] Keyword: EnterValue Value: 111111111 
+2022-08-04 13:58:36,708 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-04 13:58:36,772 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:36,822 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:36,921 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:36,952 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-04 13:58:36,975 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:37,178 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:37,212 INFO  [Executor] Keyword: EnterValue Value: User 
+2022-08-04 13:58:37,213 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:37,303 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:37,332 INFO  [Executor] Keyword: EnterValue Value: User 
+2022-08-04 13:58:37,529 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:37,551 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-04 13:58:37,621 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:37,644 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-04 13:58:37,827 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:38,012 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:38,026 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:38,045 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:38,100 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:38,202 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:38,276 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:38,298 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:38,348 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:38,448 INFO  [Executor] Keyword: EnterValue Value: 111111111 
+2022-08-04 13:58:38,549 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:38,591 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:38,651 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:38,680 INFO  [Executor] Keyword: VerifyTextEqual Value: Automation 
+2022-08-04 13:58:38,799 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:38,799 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:38,804 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:38,909 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.AssertionError: expected [] but found [Automation]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.ccs.masterPages.ManageVerifications.assertTextEqual(ManageVerifications.java:41)
+	at com.ccs.masterActions.ActionsClass.VerifyTextEqual(ActionsClass.java:110)
+	... 22 more
+2022-08-04 13:58:39,150 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:39,309 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:39,309 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:39,396 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:39,504 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:39,580 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:39,700 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:39,919 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:39,981 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:40,013 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:40,121 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:40,176 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:40,275 INFO  [TestBase] Closing all the browser. 
+2022-08-04 13:58:40,314 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:40,507 INFO  [Executor] Keyword: EnterValue Value: 111111111 
+2022-08-04 13:58:40,547 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:40,581 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:40,612 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:40,687 INFO  [Executor] Keyword: VerifyTextEqual Value: Automation 
+2022-08-04 13:58:40,701 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:40,867 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.AssertionError: expected [] but found [Automation]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.ccs.masterPages.ManageVerifications.assertTextEqual(ManageVerifications.java:41)
+	at com.ccs.masterActions.ActionsClass.VerifyTextEqual(ActionsClass.java:110)
+	... 22 more
+2022-08-04 13:58:40,996 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:41,091 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:41,169 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:41,443 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:41,548 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:41,763 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:41,921 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:42,022 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:42,121 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:42,122 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:42,122 INFO  [Log] 				TC001_REGISTERORGANISATION FAIL 
+2022-08-04 13:58:42,122 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:42,122 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:42,188 INFO  [TestBase] Closing all the browser. 
+2022-08-04 13:58:42,419 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:42,438 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:42,637 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:42,800 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:42,954 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:43,030 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:43,072 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:43,156 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:43,331 INFO  [Executor] Keyword: EnterValue Value: 111111111 
+2022-08-04 13:58:43,493 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:43,621 INFO  [Executor] Keyword: EnterValue Value: 111111111 
+2022-08-04 13:58:43,662 INFO  [Executor] Keyword: VerifyTextEqual Value: Automation 
+2022-08-04 13:58:43,689 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:43,788 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:43,788 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:43,788 INFO  [Log] 				TC001_REGISTERORGANISATION FAIL 
+2022-08-04 13:58:43,788 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:43,789 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:43,901 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.AssertionError: expected [] but found [Automation]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.ccs.masterPages.ManageVerifications.assertTextEqual(ManageVerifications.java:41)
+	at com.ccs.masterActions.ActionsClass.VerifyTextEqual(ActionsClass.java:110)
+	... 22 more
+2022-08-04 13:58:43,914 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:43,992 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:44,545 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:44,871 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:45,172 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:45,174 INFO  [TestBase] Closing all the browser. 
+2022-08-04 13:58:45,478 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:45,611 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:45,881 INFO  [Executor] Keyword: VerifyTextEqual Value: Automation 
+2022-08-04 13:58:45,984 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 13:58:46,092 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.AssertionError: expected [] but found [Automation]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.ccs.masterPages.ManageVerifications.assertTextEqual(ManageVerifications.java:41)
+	at com.ccs.masterActions.ActionsClass.VerifyTextEqual(ActionsClass.java:110)
+	... 22 more
+2022-08-04 13:58:46,631 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 13:58:46,711 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:46,711 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:46,712 INFO  [Log] 				TC001_REGISTERORGANISATION FAIL 
+2022-08-04 13:58:46,712 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:46,712 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:46,781 INFO  [Executor] Keyword: VerifyTextEqual Value: Automation 
+2022-08-04 13:58:47,148 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.AssertionError: expected [] but found [Automation]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:453)
+	at org.testng.Assert.assertEquals(Assert.java:463)
+	at com.ccs.masterPages.ManageVerifications.assertTextEqual(ManageVerifications.java:41)
+	at com.ccs.masterActions.ActionsClass.VerifyTextEqual(ActionsClass.java:110)
+	... 22 more
+2022-08-04 13:58:47,781 INFO  [TestBase] Closing all the browser. 
+2022-08-04 13:58:48,296 INFO  [TestBase] Closing all the browser. 
+2022-08-04 13:58:49,536 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:49,536 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:49,536 INFO  [Log] 				TC001_REGISTERORGANISATION FAIL 
+2022-08-04 13:58:49,536 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:49,536 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:50,063 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:50,063 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:50,063 INFO  [Log] 				TC001_REGISTERORGANISATION FAIL 
+2022-08-04 13:58:50,063 INFO  [Log] **************************************************************************************** 
+2022-08-04 13:58:50,064 INFO  [Log] **************************************************************************************** 
