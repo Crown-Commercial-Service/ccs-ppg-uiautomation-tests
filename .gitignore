@@ -67,3 +67,13 @@ target/surefire-reports/old/CCS Suite/CCS Test 4.properties
 target/surefire-reports/old/CCS Suite/CCS Test 5.properties
 target/surefire-reports/testng-failed.xml
 target/test-classes/objectRepository/createAccount.properties
+screenshots/TC001_RegBuyerOrganisation_04082022_151057.png
+target/html-report/index.html
+target/surefire-reports/CCS Suite/CCS Test 4.html
+target/surefire-reports/CCS Suite/CCS Test 4.xml
+target/surefire-reports/CCS Suite/CCS Test 5.html
+target/surefire-reports/CCS Suite/CCS Test 5.xml
+target/surefire-reports/old/CCS Suite/CCS Test 4.properties
+target/surefire-reports/old/CCS Suite/CCS Test 5.properties
+target/test-classes/data/~$TestDataSheet.xlsx
+target/test-classes/objectRepository/createAccount.properties
