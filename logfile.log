@@ -1144,3 +1144,530 @@ Session ID: 62e7cca14d420d87938a0da8786bd5b832e2378d
 2022-07-21 15:05:19,489 INFO  [Log] 				TC001_SIGNIN PASS 
 2022-07-21 15:05:19,489 INFO  [Log] **************************************************************************************** 
 2022-07-21 15:05:19,489 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:00:13,675 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-04 12:00:13,679 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-04 12:00:13,680 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 12:00:13,682 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 12:00:14,448 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2022-08-04 12:00:14,449 INFO  [TestBase] Obj repository:7 
+2022-08-04 12:00:14,464 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 12:00:37,413 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-04 12:00:37,413 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:00:37,414 INFO  [Log] 				TC001_REGISTERORGANISATION START 
+2022-08-04 12:00:37,414 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:00:37,414 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:07:41,130 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-04 12:07:41,135 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-04 12:07:41,136 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 12:07:41,138 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 12:07:41,869 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2022-08-04 12:07:41,870 INFO  [TestBase] Obj repository:7 
+2022-08-04 12:07:41,886 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 12:07:41,907 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 12:07:50,940 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-04 12:07:50,940 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:07:50,940 INFO  [Log] 				TC001_REGISTERORGANISATION START 
+2022-08-04 12:07:50,941 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:07:50,941 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:07:51,044 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:07:51,194 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:07:52,882 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:07:53,159 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:07:53,795 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:07:53,944 INFO  [Executor] Keyword: EnterRandomText Value:  
+2022-08-04 12:07:53,947 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.IllegalArgumentException: wrong number of arguments
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-08-04 12:09:07,194 INFO  [TestBase] Closing all the browser. 
+2022-08-04 12:09:09,355 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:09:09,356 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:09:09,357 INFO  [Log] 				TC001_REGISTERORGANISATION FAIL 
+2022-08-04 12:09:09,357 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:09:09,357 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:12:00,034 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-04 12:12:00,040 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-04 12:12:00,044 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 12:12:00,047 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 12:12:00,763 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2022-08-04 12:12:00,763 INFO  [TestBase] Obj repository:7 
+2022-08-04 12:12:00,789 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 12:12:00,817 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 12:12:09,496 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-04 12:12:09,497 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:12:09,497 INFO  [Log] 				TC001_REGISTERORGANISATION START 
+2022-08-04 12:12:09,497 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:12:09,497 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:12:09,595 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:12:09,780 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:12:11,133 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:12:11,330 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:12:11,718 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:12:11,912 INFO  [Executor] Keyword: EnterRandomText Value:  
+2022-08-04 12:12:12,564 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-04 12:12:13,028 INFO  [Executor] Keyword: EnterValue Value: User 
+2022-08-04 12:12:13,367 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-04 12:12:13,861 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:12:14,426 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:12:14,565 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:12:15,631 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:12:15,780 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:12:16,253 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:12:16,966 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:12:17,415 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:12:17,909 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:12:48,303 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.testng.TestNGException: 
+Element with xpath://h1[contains(@class,'govuk-heading-xl page-title') and contains(text(),'What type of buyer are you?')] not found in the page.
+	at com.ccs.masterPages.ManageElements.waitForElementPresence(ManageElements.java:75)
+	at com.ccs.masterActions.ActionsClass.WaitForElemPresence(ActionsClass.java:51)
+	... 22 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //h1[contains(@class,'govuk-heading-xl page-title') and contains(text(),'What type of buyer are you?')] (tried for 30 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:138)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.ccs.masterPages.ManageElements.waitForElementPresence(ManageElements.java:73)
+	... 23 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[contains(@class,'govuk-heading-xl page-title') and contains(text(),'What type of buyer are you?')]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [77c3e1d4a97465ae28506a26696d663e8186fe68, findElement {using=xpath, value=//h1[contains(@class,'govuk-heading-xl page-title') and contains(text(),'What type of buyer are you?')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.24 (e47b049c438c..., userDataDir: C:\Windows\proxy\scoped_dir...}, goog:chromeOptions: {debuggerAddress: localhost:7068}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 77c3e1d4a97465ae28506a26696...}
+Session ID: 77c3e1d4a97465ae28506a26696d663e8186fe68
+	at jdk.internal.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:174)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 24 more
+2022-08-04 12:12:50,984 INFO  [TestBase] Closing all the browser. 
+2022-08-04 12:12:53,442 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:12:53,442 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:12:53,443 INFO  [Log] 				TC001_REGISTERORGANISATION FAIL 
+2022-08-04 12:12:53,443 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:12:53,444 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:16:05,986 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-04 12:16:05,990 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-04 12:16:05,994 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 12:16:05,996 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 12:16:06,706 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2022-08-04 12:16:06,707 INFO  [TestBase] Obj repository:7 
+2022-08-04 12:16:06,724 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 12:16:06,746 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 12:16:15,982 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-04 12:16:15,983 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:16:15,984 INFO  [Log] 				TC001_REGISTERORGANISATION START 
+2022-08-04 12:16:15,984 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:16:15,985 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:16:16,080 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:16:16,218 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:16:17,307 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:16:17,456 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:16:17,851 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:16:18,007 INFO  [Executor] Keyword: EnterRandomText Value:  
+2022-08-04 12:16:18,525 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-04 12:16:18,993 INFO  [Executor] Keyword: EnterValue Value: User 
+2022-08-04 12:16:19,332 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-04 12:16:19,727 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:16:20,058 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:16:20,318 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:16:21,387 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:16:21,569 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:16:21,890 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:16:22,286 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:16:22,515 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:16:22,835 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:16:23,783 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:16:23,895 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:16:24,265 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:16:24,739 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:16:24,881 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:16:25,206 INFO  [Executor] Keyword: EnterValue Value: 111111111 
+2022-08-04 12:16:25,770 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:16:26,151 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:16:27,220 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:16:27,529 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:16:27,906 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:16:28,089 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:16:28,426 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:16:30,025 INFO  [Executor] Keyword:  Value:  
+2022-08-04 12:16:30,029 ERROR [Executor] Exception Occurred while executing the step:
+ 
+com.ccs.masterExceptions.InvalidKeywordException: Invalid Keyword 
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:81)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-08-04 12:16:31,504 INFO  [TestBase] Closing all the browser. 
+2022-08-04 12:16:33,265 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:16:33,266 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:16:33,266 INFO  [Log] 				TC001_REGISTERORGANISATION FAIL 
+2022-08-04 12:16:33,266 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:16:33,267 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:22:08,846 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-04 12:22:08,851 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-04 12:22:08,854 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 12:22:08,856 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 12:22:09,721 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2022-08-04 12:22:09,722 INFO  [TestBase] Obj repository:7 
+2022-08-04 12:22:09,752 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 12:22:09,801 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 12:22:18,627 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-04 12:22:18,629 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:22:18,629 INFO  [Log] 				TC001_REGISTERORGANISATION START 
+2022-08-04 12:22:18,630 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:22:18,631 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:22:18,734 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:22:18,891 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:22:20,407 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:22:20,551 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:22:21,327 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:22:21,529 INFO  [Executor] Keyword: EnterRandomText Value:  
+2022-08-04 12:22:22,040 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-04 12:22:22,808 INFO  [Executor] Keyword: EnterValue Value: User 
+2022-08-04 12:22:23,323 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-04 12:22:23,903 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:22:24,439 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:22:24,582 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:22:24,936 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:22:25,198 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:22:26,213 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:22:27,656 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:22:28,541 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:22:28,933 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:22:29,635 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:22:29,844 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:22:30,377 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:22:30,954 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:22:31,423 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:22:32,000 INFO  [Executor] Keyword: EnterValue Value: 111111111 
+2022-08-04 12:22:32,523 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:22:33,222 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:22:34,133 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:22:35,583 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:22:37,213 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:22:38,256 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:22:39,316 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:22:41,992 INFO  [TestBase] Closing all the browser. 
+2022-08-04 12:22:43,618 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:22:43,619 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:22:43,619 INFO  [Log] 				TC001_REGISTERORGANISATION PASS 
+2022-08-04 12:22:43,619 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:22:43,620 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:17,494 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-04 12:28:17,498 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-04 12:28:17,499 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 12:28:17,502 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-04 12:28:18,320 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2022-08-04 12:28:18,321 INFO  [TestBase] Obj repository:7 
+2022-08-04 12:28:18,345 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 12:28:18,345 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 12:28:18,345 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 12:28:18,345 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 12:28:18,345 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-04 12:28:18,374 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 12:28:18,374 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 12:28:18,374 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 12:28:18,374 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 12:28:18,374 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-04 12:28:26,872 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-04 12:28:26,873 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:26,873 INFO  [Log] 				TC001_REGISTERORGANISATION START 
+2022-08-04 12:28:26,874 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:26,874 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:26,983 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:28,331 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:28,596 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:28,817 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-04 12:28:28,819 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:28,820 INFO  [Log] 				TC001_REGISTERORGANISATION START 
+2022-08-04 12:28:28,820 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:28,821 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:28,822 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:28,969 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:29,226 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:29,279 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-04 12:28:29,280 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:29,281 INFO  [Log] 				TC001_REGISTERORGANISATION START 
+2022-08-04 12:28:29,281 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:29,281 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:29,283 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:29,652 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:29,765 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:29,812 INFO  [Executor] Keyword: EnterRandomText Value:  
+2022-08-04 12:28:30,300 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:30,456 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-04 12:28:30,644 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:30,774 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:30,902 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:31,068 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:31,102 INFO  [Executor] Keyword: EnterValue Value: User 
+2022-08-04 12:28:31,189 INFO  [Executor] Keyword: EnterRandomText Value:  
+2022-08-04 12:28:31,265 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:31,417 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-04 12:28:31,478 INFO  [Executor] Keyword: EnterRandomText Value:  
+2022-08-04 12:28:31,719 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-04 12:28:31,906 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-04 12:28:32,024 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-04 12:28:32,024 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:32,024 INFO  [Log] 				TC001_REGISTERORGANISATION START 
+2022-08-04 12:28:32,024 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:32,024 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:32,025 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:32,100 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:32,508 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:32,614 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:32,816 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:32,817 INFO  [Executor] Keyword: EnterValue Value: User 
+2022-08-04 12:28:32,849 INFO  [Executor] Keyword: EnterValue Value: User 
+2022-08-04 12:28:33,109 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:33,149 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-04 12:28:33,207 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:33,261 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-04 12:28:33,491 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:33,549 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:33,833 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:33,858 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-04 12:28:33,858 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:33,859 INFO  [Log] 				TC001_REGISTERORGANISATION START 
+2022-08-04 12:28:33,859 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:33,859 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:33,861 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:33,997 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:34,159 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:34,243 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:34,335 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:34,344 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:34,449 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:34,510 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:34,562 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:34,616 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:34,779 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:34,810 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:34,859 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:34,878 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:34,907 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:35,185 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:35,189 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:35,290 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:35,473 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:35,529 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:35,585 INFO  [Executor] Keyword: EnterValue Value: 111111111 
+2022-08-04 12:28:35,617 INFO  [Executor] Keyword: EnterRandomText Value:  
+2022-08-04 12:28:35,679 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:35,773 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:35,985 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:36,028 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-04 12:28:36,474 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:36,688 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:36,720 INFO  [Executor] Keyword: EnterValue Value: User 
+2022-08-04 12:28:36,746 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:36,925 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:36,980 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:36,981 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:37,079 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:37,118 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-04 12:28:37,118 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:37,332 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:37,453 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:37,521 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:37,586 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:37,621 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:37,724 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:37,740 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:37,757 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:37,879 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:37,918 INFO  [Executor] Keyword: EnterRandomText Value:  
+2022-08-04 12:28:37,985 INFO  [Executor] Keyword: EnterValue Value: 111111111 
+2022-08-04 12:28:37,998 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:38,089 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:38,169 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:38,188 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:38,247 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:38,301 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:38,303 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:38,444 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:38,599 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:38,659 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:38,746 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-04 12:28:38,769 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:38,999 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:39,059 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:39,207 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:39,248 INFO  [Executor] Keyword: EnterValue Value: User 
+2022-08-04 12:28:39,358 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:39,387 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:39,520 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:39,614 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:39,647 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-04 12:28:39,970 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:40,049 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:40,079 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:40,158 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:40,359 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:40,438 INFO  [TestBase] Closing all the browser. 
+2022-08-04 12:28:40,539 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:40,798 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:41,101 INFO  [Executor] Keyword: EnterValue Value: 111111111 
+2022-08-04 12:28:41,101 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:41,276 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:41,501 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:41,588 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:41,665 INFO  [TestBase] Closing all the browser. 
+2022-08-04 12:28:41,818 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:41,891 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:41,913 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:42,159 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:42,159 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:42,159 INFO  [Log] 				TC001_REGISTERORGANISATION PASS 
+2022-08-04 12:28:42,159 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:42,159 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:42,383 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:42,778 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:42,800 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:43,153 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:43,334 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:43,335 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:43,335 INFO  [Log] 				TC001_REGISTERORGANISATION PASS 
+2022-08-04 12:28:43,335 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:43,335 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:43,554 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:43,924 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:43,959 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:44,021 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:44,146 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:44,382 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:44,454 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:44,928 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:44,964 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:45,103 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:45,168 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:45,427 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:45,624 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:45,657 INFO  [Executor] Keyword: EnterValue Value: 111111111 
+2022-08-04 12:28:46,232 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:46,384 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:46,853 INFO  [Executor] Keyword: EnterValue Value: 111111111 
+2022-08-04 12:28:46,993 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:47,184 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:47,416 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:47,837 INFO  [TestBase] Closing all the browser. 
+2022-08-04 12:28:48,296 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:48,693 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:48,903 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:49,309 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:49,310 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:49,310 INFO  [Log] 				TC001_REGISTERORGANISATION PASS 
+2022-08-04 12:28:49,310 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:49,310 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:49,407 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:49,469 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:49,928 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:50,228 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:50,363 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:50,944 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:51,068 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-04 12:28:51,608 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-04 12:28:52,900 INFO  [TestBase] Closing all the browser. 
+2022-08-04 12:28:53,029 INFO  [TestBase] Closing all the browser. 
+2022-08-04 12:28:54,484 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:54,484 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:54,484 INFO  [Log] 				TC001_REGISTERORGANISATION PASS 
+2022-08-04 12:28:54,484 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:54,484 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:54,597 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:54,598 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:54,598 INFO  [Log] 				TC001_REGISTERORGANISATION PASS 
+2022-08-04 12:28:54,598 INFO  [Log] **************************************************************************************** 
+2022-08-04 12:28:54,598 INFO  [Log] **************************************************************************************** 

@@ -51,7 +51,7 @@
 		<ul id='nav-mobile' class='right hide-on-med-and-down nav-right'>
 			<li>
                 <a href='#!'>
-                    <span class='label suite-start-time blue darken-3'>Jul 21, 2022 03:04:55 PM</span>
+                    <span class='label suite-start-time blue darken-3'>Aug 4, 2022 12:28:26 PM</span>
 				</a>
 			</li>
 			<li>
@@ -127,7 +127,7 @@
 					<canvas id='parent-analysis' width='100' height='80'></canvas>
 				</div>
 				<div class='block text-small'>
-					<span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>6</span> test(s) passed</span>
+					<span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>5</span> test(s) passed</span>
 				</div>
 				<div class='block text-small'>
 					<span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> test(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
@@ -142,7 +142,7 @@
 					<canvas id='child-analysis' width='100' height='80'></canvas>
 				</div>
 				<div class='block text-small'>
-					<span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>30</span> step(s) passed</span>
+					<span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>155</span> step(s) passed</span>
 				</div>
 				<div class='block text-small'>
 					<span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> step(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
@@ -162,15 +162,15 @@
 				
 				<li class='test displayed active  pass' status='pass' bdd='false' test-id='1'>
 					<div class='test-heading'>
-						<span class='test-name'>TC001_SignIn</span>
-						<span class='test-time'>Jul 21, 2022 03:04:55 PM</span>
+						<span class='test-name'>TC001_RegisterOrganisation</span>
+						<span class='test-time'>Aug 4, 2022 12:28:26 PM</span>
 						<span class='test-status right pass'>pass</span>
 					</div>
 					<div class='test-content hide'>
 <div class='test-time-info'>
-	<span class='label start-time'>Jul 21, 2022 03:04:55 PM</span>
-	<span class='label end-time'>Jul 21, 2022 03:05:00 PM</span>
-	<span class='label time-taken grey lighten-1 white-text'>0h 0m 5s+208ms</span>
+	<span class='label start-time'>Aug 4, 2022 12:28:26 PM</span>
+	<span class='label end-time'>Aug 4, 2022 12:28:39 PM</span>
+	<span class='label time-taken grey lighten-1 white-text'>0h 0m 12s+971ms</span>
 </div>
 	<div class='test-steps'>
 		<table class='bordered table-results'>
@@ -184,38 +184,168 @@
 			<tbody>
 				<tr class='log' status='debug'>
 					<td class='status debug' title='debug' alt='debug'><i class='material-icons'>low_priority</i></td>
-					<td class='timestamp'>3:04:55 PM</td>
+					<td class='timestamp'>12:28:26 PM</td>
 					<td class='step-details'><span class='label white-text green'>Browser : SAFARI</span></td>
 				</tr>
 				<tr class='log' status='debug'>
 					<td class='status debug' title='debug' alt='debug'><i class='material-icons'>low_priority</i></td>
-					<td class='timestamp'>3:04:55 PM</td>
+					<td class='timestamp'>12:28:26 PM</td>
 					<td class='step-details'><span class='label white-text green'>OS : OS X</span></td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:04:56 PM</td>
-					<td class='step-details'>Wait for email field<br/>Keyword: WaitForElemPresence | Value: | Element: txt_email</td>
+					<td class='timestamp'>12:28:28 PM</td>
+					<td class='step-details'>Wait for page header to be displayed<br/>Keyword: WaitForElemPresence | Value: | Element: elm_header</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:04:57 PM</td>
-					<td class='step-details'>Enter email<br/>Keyword: EnterValue | Value: pcc.esourcingtest13@yopmail.com| Element: txt_email</td>
+					<td class='timestamp'>12:28:28 PM</td>
+					<td class='step-details'>Click on create an account button<br/>Keyword: ClickOnElement | Value: | Element: btn_register</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:04:57 PM</td>
-					<td class='step-details'>Enter password<br/>Keyword: EnterValue | Value: Test_12345| Element: txt_password</td>
+					<td class='timestamp'>12:28:29 PM</td>
+					<td class='step-details'>Wait for loading create account page<br/>Keyword: WaitForElemPresence | Value: | Element: elm_createAccount_header</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:04:57 PM</td>
-					<td class='step-details'>Click on sign in button<br/>Keyword: ClickOnElement | Value: | Element: btn_signin</td>
+					<td class='timestamp'>12:28:29 PM</td>
+					<td class='step-details'>Click on 'start now' button<br/>Keyword: ClickOnElement | Value: | Element: btn_startNow</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:00 PM</td>
-					<td class='step-details'>Wait for dashboard title<br/>Keyword: WaitForElemPresence | Value: | Element: elm_header</td>
+					<td class='timestamp'>12:28:29 PM</td>
+					<td class='step-details'>Wait for loading 'enter details' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_enterDetails_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:30 PM</td>
+					<td class='step-details'>Enter organisation name<br/>Keyword: EnterRandomText | Value: | Element: txt_RegorgName</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:31 PM</td>
+					<td class='step-details'>Enter firstname of user<br/>Keyword: EnterValue | Value: Automation| Element: txt_RegfirstName</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:31 PM</td>
+					<td class='step-details'>Enter last name of user<br/>Keyword: EnterValue | Value: User| Element: txt_ReglastName</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:32 PM</td>
+					<td class='step-details'>Enter email id of user<br/>Keyword: EnterRandomEmail | Value: yopmail.com| Element: txt_Regemail</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:32 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:32 PM</td>
+					<td class='step-details'>Wait for loading 'register your organisation' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_regOrg_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:33 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:33 PM</td>
+					<td class='step-details'>Wait for radio button - Org administrator<br/>Keyword: WaitForElemPresence | Value: | Element: rd_orgAdmin</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:33 PM</td>
+					<td class='step-details'>Click on radio button - Org administrator<br/>Keyword: ClickOnElement | Value: | Element: rd_orgAdmin</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:33 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:33 PM</td>
+					<td class='step-details'>Wait for loading org type page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_typeofOrg</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:34 PM</td>
+					<td class='step-details'>Click on 'buyer' option<br/>Keyword: ClickOnElement | Value: | Element: rd_buyer</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:34 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:34 PM</td>
+					<td class='step-details'>Wait for loading type of buyer page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_typeOfBuyer</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:34 PM</td>
+					<td class='step-details'>Click on 'central govt' option<br/>Keyword: ClickOnElement | Value: | Element: rd_centralGovt</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:35 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:35 PM</td>
+					<td class='step-details'>Wait for loading 'enter org details' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_orgDetails_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:35 PM</td>
+					<td class='step-details'>Click on 'Companies House' option<br/>Keyword: ClickOnElement | Value: | Element: rd_companiesHouse</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:35 PM</td>
+					<td class='step-details'>Enter COH identifier<br/>Keyword: EnterValue | Value: 111111111| Element: txt_companiesHouse</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:36 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:37 PM</td>
+					<td class='step-details'>Wait for loading 'confirm org' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_confirmOrg</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:37 PM</td>
+					<td class='step-details'>Click on option to confirm org details<br/>Keyword: ClickOnElement | Value: | Element: rd_confirmOrg</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:38 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:38 PM</td>
+					<td class='step-details'>Wait for loading 'create admin account' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_createAdminAccount_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:38 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:39 PM</td>
+					<td class='step-details'>Wait for loading 'sent email confirmation' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_confirmEmailAddress</td>
 				</tr>
 			</tbody>
 		</table>
@@ -226,15 +356,15 @@
 				
 				<li class='test displayed active  pass' status='pass' bdd='false' test-id='2'>
 					<div class='test-heading'>
-						<span class='test-name'>TC002_Login</span>
-						<span class='test-time'>Jul 21, 2022 03:04:55 PM</span>
+						<span class='test-name'>TC001_RegisterOrganisation</span>
+						<span class='test-time'>Aug 4, 2022 12:28:28 PM</span>
 						<span class='test-status right pass'>pass</span>
 					</div>
 					<div class='test-content hide'>
 <div class='test-time-info'>
-	<span class='label start-time'>Jul 21, 2022 03:04:55 PM</span>
-	<span class='label end-time'>Jul 21, 2022 03:04:57 PM</span>
-	<span class='label time-taken grey lighten-1 white-text'>0h 0m 1s+788ms</span>
+	<span class='label start-time'>Aug 4, 2022 12:28:28 PM</span>
+	<span class='label end-time'>Aug 4, 2022 12:28:47 PM</span>
+	<span class='label time-taken grey lighten-1 white-text'>0h 0m 18s+532ms</span>
 </div>
 	<div class='test-steps'>
 		<table class='bordered table-results'>
@@ -248,38 +378,168 @@
 			<tbody>
 				<tr class='log' status='debug'>
 					<td class='status debug' title='debug' alt='debug'><i class='material-icons'>low_priority</i></td>
-					<td class='timestamp'>3:04:55 PM</td>
-					<td class='step-details'><span class='label white-text green'>Browser : CHROME</span></td>
+					<td class='timestamp'>12:28:28 PM</td>
+					<td class='step-details'><span class='label white-text green'>Browser : EDGE</span></td>
 				</tr>
 				<tr class='log' status='debug'>
 					<td class='status debug' title='debug' alt='debug'><i class='material-icons'>low_priority</i></td>
-					<td class='timestamp'>3:04:55 PM</td>
+					<td class='timestamp'>12:28:28 PM</td>
 					<td class='step-details'><span class='label white-text green'>OS : WINDOWS</span></td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:04:55 PM</td>
-					<td class='step-details'>Wait for email field<br/>Keyword: WaitForElemPresence | Value: | Element: txt_email</td>
+					<td class='timestamp'>12:28:28 PM</td>
+					<td class='step-details'>Wait for page header to be displayed<br/>Keyword: WaitForElemPresence | Value: | Element: elm_header</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:04:56 PM</td>
-					<td class='step-details'>Enter email<br/>Keyword: EnterValue | Value: pcc.esourcingtest13@yopmail.com| Element: txt_email</td>
+					<td class='timestamp'>12:28:30 PM</td>
+					<td class='step-details'>Click on create an account button<br/>Keyword: ClickOnElement | Value: | Element: btn_register</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:04:56 PM</td>
-					<td class='step-details'>Enter password<br/>Keyword: EnterValue | Value: Test_12345| Element: txt_password</td>
+					<td class='timestamp'>12:28:30 PM</td>
+					<td class='step-details'>Wait for loading create account page<br/>Keyword: WaitForElemPresence | Value: | Element: elm_createAccount_header</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:04:56 PM</td>
-					<td class='step-details'>Click on sign in button<br/>Keyword: ClickOnElement | Value: | Element: btn_signin</td>
+					<td class='timestamp'>12:28:31 PM</td>
+					<td class='step-details'>Click on 'start now' button<br/>Keyword: ClickOnElement | Value: | Element: btn_startNow</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:04:57 PM</td>
-					<td class='step-details'>Wait for dashboard title<br/>Keyword: WaitForElemAbsence | Value: | Element: elm_wrong_header</td>
+					<td class='timestamp'>12:28:31 PM</td>
+					<td class='step-details'>Wait for loading 'enter details' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_enterDetails_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:31 PM</td>
+					<td class='step-details'>Enter organisation name<br/>Keyword: EnterRandomText | Value: | Element: txt_RegorgName</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:32 PM</td>
+					<td class='step-details'>Enter firstname of user<br/>Keyword: EnterValue | Value: Automation| Element: txt_RegfirstName</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:33 PM</td>
+					<td class='step-details'>Enter last name of user<br/>Keyword: EnterValue | Value: User| Element: txt_ReglastName</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:34 PM</td>
+					<td class='step-details'>Enter email id of user<br/>Keyword: EnterRandomEmail | Value: yopmail.com| Element: txt_Regemail</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:34 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:35 PM</td>
+					<td class='step-details'>Wait for loading 'register your organisation' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_regOrg_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:36 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:37 PM</td>
+					<td class='step-details'>Wait for radio button - Org administrator<br/>Keyword: WaitForElemPresence | Value: | Element: rd_orgAdmin</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:37 PM</td>
+					<td class='step-details'>Click on radio button - Org administrator<br/>Keyword: ClickOnElement | Value: | Element: rd_orgAdmin</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:37 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:37 PM</td>
+					<td class='step-details'>Wait for loading org type page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_typeofOrg</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:38 PM</td>
+					<td class='step-details'>Click on 'buyer' option<br/>Keyword: ClickOnElement | Value: | Element: rd_buyer</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:38 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:38 PM</td>
+					<td class='step-details'>Wait for loading type of buyer page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_typeOfBuyer</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:39 PM</td>
+					<td class='step-details'>Click on 'central govt' option<br/>Keyword: ClickOnElement | Value: | Element: rd_centralGovt</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:39 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:39 PM</td>
+					<td class='step-details'>Wait for loading 'enter org details' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_orgDetails_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:41 PM</td>
+					<td class='step-details'>Click on 'Companies House' option<br/>Keyword: ClickOnElement | Value: | Element: rd_companiesHouse</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:41 PM</td>
+					<td class='step-details'>Enter COH identifier<br/>Keyword: EnterValue | Value: 111111111| Element: txt_companiesHouse</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:41 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:43 PM</td>
+					<td class='step-details'>Wait for loading 'confirm org' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_confirmOrg</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:44 PM</td>
+					<td class='step-details'>Click on option to confirm org details<br/>Keyword: ClickOnElement | Value: | Element: rd_confirmOrg</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:44 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:45 PM</td>
+					<td class='step-details'>Wait for loading 'create admin account' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_createAdminAccount_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:45 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:47 PM</td>
+					<td class='step-details'>Wait for loading 'sent email confirmation' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_confirmEmailAddress</td>
 				</tr>
 			</tbody>
 		</table>
@@ -290,15 +550,15 @@
 				
 				<li class='test displayed active  pass' status='pass' bdd='false' test-id='3'>
 					<div class='test-heading'>
-						<span class='test-name'>TC002_Login</span>
-						<span class='test-time'>Jul 21, 2022 03:04:57 PM</span>
+						<span class='test-name'>TC001_RegisterOrganisation</span>
+						<span class='test-time'>Aug 4, 2022 12:28:29 PM</span>
 						<span class='test-status right pass'>pass</span>
 					</div>
 					<div class='test-content hide'>
 <div class='test-time-info'>
-	<span class='label start-time'>Jul 21, 2022 03:04:57 PM</span>
-	<span class='label end-time'>Jul 21, 2022 03:05:00 PM</span>
-	<span class='label time-taken grey lighten-1 white-text'>0h 0m 3s+472ms</span>
+	<span class='label start-time'>Aug 4, 2022 12:28:29 PM</span>
+	<span class='label end-time'>Aug 4, 2022 12:28:41 PM</span>
+	<span class='label time-taken grey lighten-1 white-text'>0h 0m 11s+866ms</span>
 </div>
 	<div class='test-steps'>
 		<table class='bordered table-results'>
@@ -312,38 +572,168 @@
 			<tbody>
 				<tr class='log' status='debug'>
 					<td class='status debug' title='debug' alt='debug'><i class='material-icons'>low_priority</i></td>
-					<td class='timestamp'>3:04:57 PM</td>
-					<td class='step-details'><span class='label white-text green'>Browser : SAFARI</span></td>
+					<td class='timestamp'>12:28:29 PM</td>
+					<td class='step-details'><span class='label white-text green'>Browser : CHROME</span></td>
 				</tr>
 				<tr class='log' status='debug'>
 					<td class='status debug' title='debug' alt='debug'><i class='material-icons'>low_priority</i></td>
-					<td class='timestamp'>3:04:57 PM</td>
+					<td class='timestamp'>12:28:29 PM</td>
 					<td class='step-details'><span class='label white-text green'>OS : OS X</span></td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:04:59 PM</td>
-					<td class='step-details'>Wait for email field<br/>Keyword: WaitForElemPresence | Value: | Element: txt_email</td>
+					<td class='timestamp'>12:28:29 PM</td>
+					<td class='step-details'>Wait for page header to be displayed<br/>Keyword: WaitForElemPresence | Value: | Element: elm_header</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:00 PM</td>
-					<td class='step-details'>Enter email<br/>Keyword: EnterValue | Value: pcc.esourcingtest13@yopmail.com| Element: txt_email</td>
+					<td class='timestamp'>12:28:30 PM</td>
+					<td class='step-details'>Click on create an account button<br/>Keyword: ClickOnElement | Value: | Element: btn_register</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:00 PM</td>
-					<td class='step-details'>Enter password<br/>Keyword: EnterValue | Value: Test_12345| Element: txt_password</td>
+					<td class='timestamp'>12:28:30 PM</td>
+					<td class='step-details'>Wait for loading create account page<br/>Keyword: WaitForElemPresence | Value: | Element: elm_createAccount_header</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:00 PM</td>
-					<td class='step-details'>Click on sign in button<br/>Keyword: ClickOnElement | Value: | Element: btn_signin</td>
+					<td class='timestamp'>12:28:31 PM</td>
+					<td class='step-details'>Click on 'start now' button<br/>Keyword: ClickOnElement | Value: | Element: btn_startNow</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:00 PM</td>
-					<td class='step-details'>Wait for dashboard title<br/>Keyword: WaitForElemAbsence | Value: | Element: elm_wrong_header</td>
+					<td class='timestamp'>12:28:31 PM</td>
+					<td class='step-details'>Wait for loading 'enter details' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_enterDetails_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:31 PM</td>
+					<td class='step-details'>Enter organisation name<br/>Keyword: EnterRandomText | Value: | Element: txt_RegorgName</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:32 PM</td>
+					<td class='step-details'>Enter firstname of user<br/>Keyword: EnterValue | Value: Automation| Element: txt_RegfirstName</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:33 PM</td>
+					<td class='step-details'>Enter last name of user<br/>Keyword: EnterValue | Value: User| Element: txt_ReglastName</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:33 PM</td>
+					<td class='step-details'>Enter email id of user<br/>Keyword: EnterRandomEmail | Value: yopmail.com| Element: txt_Regemail</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:34 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:34 PM</td>
+					<td class='step-details'>Wait for loading 'register your organisation' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_regOrg_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:34 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:34 PM</td>
+					<td class='step-details'>Wait for radio button - Org administrator<br/>Keyword: WaitForElemPresence | Value: | Element: rd_orgAdmin</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:35 PM</td>
+					<td class='step-details'>Click on radio button - Org administrator<br/>Keyword: ClickOnElement | Value: | Element: rd_orgAdmin</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:35 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:35 PM</td>
+					<td class='step-details'>Wait for loading org type page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_typeofOrg</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:36 PM</td>
+					<td class='step-details'>Click on 'buyer' option<br/>Keyword: ClickOnElement | Value: | Element: rd_buyer</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:36 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:37 PM</td>
+					<td class='step-details'>Wait for loading type of buyer page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_typeOfBuyer</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:37 PM</td>
+					<td class='step-details'>Click on 'central govt' option<br/>Keyword: ClickOnElement | Value: | Element: rd_centralGovt</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:37 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:37 PM</td>
+					<td class='step-details'>Wait for loading 'enter org details' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_orgDetails_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:37 PM</td>
+					<td class='step-details'>Click on 'Companies House' option<br/>Keyword: ClickOnElement | Value: | Element: rd_companiesHouse</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:38 PM</td>
+					<td class='step-details'>Enter COH identifier<br/>Keyword: EnterValue | Value: 111111111| Element: txt_companiesHouse</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:38 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:39 PM</td>
+					<td class='step-details'>Wait for loading 'confirm org' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_confirmOrg</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:39 PM</td>
+					<td class='step-details'>Click on option to confirm org details<br/>Keyword: ClickOnElement | Value: | Element: rd_confirmOrg</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:39 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:40 PM</td>
+					<td class='step-details'>Wait for loading 'create admin account' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_createAdminAccount_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:40 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:41 PM</td>
+					<td class='step-details'>Wait for loading 'sent email confirmation' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_confirmEmailAddress</td>
 				</tr>
 			</tbody>
 		</table>
@@ -354,15 +744,15 @@
 				
 				<li class='test displayed active  pass' status='pass' bdd='false' test-id='4'>
 					<div class='test-heading'>
-						<span class='test-name'>TC002_Login</span>
-						<span class='test-time'>Jul 21, 2022 03:04:58 PM</span>
+						<span class='test-name'>TC001_RegisterOrganisation</span>
+						<span class='test-time'>Aug 4, 2022 12:28:32 PM</span>
 						<span class='test-status right pass'>pass</span>
 					</div>
 					<div class='test-content hide'>
 <div class='test-time-info'>
-	<span class='label start-time'>Jul 21, 2022 03:04:58 PM</span>
-	<span class='label end-time'>Jul 21, 2022 03:05:00 PM</span>
-	<span class='label time-taken grey lighten-1 white-text'>0h 0m 1s+419ms</span>
+	<span class='label start-time'>Aug 4, 2022 12:28:32 PM</span>
+	<span class='label end-time'>Aug 4, 2022 12:28:52 PM</span>
+	<span class='label time-taken grey lighten-1 white-text'>0h 0m 20s+462ms</span>
 </div>
 	<div class='test-steps'>
 		<table class='bordered table-results'>
@@ -376,38 +766,168 @@
 			<tbody>
 				<tr class='log' status='debug'>
 					<td class='status debug' title='debug' alt='debug'><i class='material-icons'>low_priority</i></td>
-					<td class='timestamp'>3:04:58 PM</td>
+					<td class='timestamp'>12:28:32 PM</td>
 					<td class='step-details'><span class='label white-text green'>Browser : FIREFOX</span></td>
 				</tr>
 				<tr class='log' status='debug'>
 					<td class='status debug' title='debug' alt='debug'><i class='material-icons'>low_priority</i></td>
-					<td class='timestamp'>3:04:58 PM</td>
+					<td class='timestamp'>12:28:32 PM</td>
 					<td class='step-details'><span class='label white-text green'>OS : WINDOWS</span></td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:04:59 PM</td>
-					<td class='step-details'>Wait for email field<br/>Keyword: WaitForElemPresence | Value: | Element: txt_email</td>
+					<td class='timestamp'>12:28:32 PM</td>
+					<td class='step-details'>Wait for page header to be displayed<br/>Keyword: WaitForElemPresence | Value: | Element: elm_header</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:04:59 PM</td>
-					<td class='step-details'>Enter email<br/>Keyword: EnterValue | Value: pcc.esourcingtest13@yopmail.com| Element: txt_email</td>
+					<td class='timestamp'>12:28:34 PM</td>
+					<td class='step-details'>Click on create an account button<br/>Keyword: ClickOnElement | Value: | Element: btn_register</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:04:59 PM</td>
-					<td class='step-details'>Enter password<br/>Keyword: EnterValue | Value: Test_12345| Element: txt_password</td>
+					<td class='timestamp'>12:28:34 PM</td>
+					<td class='step-details'>Wait for loading create account page<br/>Keyword: WaitForElemPresence | Value: | Element: elm_createAccount_header</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:00 PM</td>
-					<td class='step-details'>Click on sign in button<br/>Keyword: ClickOnElement | Value: | Element: btn_signin</td>
+					<td class='timestamp'>12:28:35 PM</td>
+					<td class='step-details'>Click on 'start now' button<br/>Keyword: ClickOnElement | Value: | Element: btn_startNow</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:00 PM</td>
-					<td class='step-details'>Wait for dashboard title<br/>Keyword: WaitForElemAbsence | Value: | Element: elm_wrong_header</td>
+					<td class='timestamp'>12:28:35 PM</td>
+					<td class='step-details'>Wait for loading 'enter details' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_enterDetails_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:36 PM</td>
+					<td class='step-details'>Enter organisation name<br/>Keyword: EnterRandomText | Value: | Element: txt_RegorgName</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:36 PM</td>
+					<td class='step-details'>Enter firstname of user<br/>Keyword: EnterValue | Value: Automation| Element: txt_RegfirstName</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:37 PM</td>
+					<td class='step-details'>Enter last name of user<br/>Keyword: EnterValue | Value: User| Element: txt_ReglastName</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:37 PM</td>
+					<td class='step-details'>Enter email id of user<br/>Keyword: EnterRandomEmail | Value: yopmail.com| Element: txt_Regemail</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:38 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:38 PM</td>
+					<td class='step-details'>Wait for loading 'register your organisation' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_regOrg_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:38 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:39 PM</td>
+					<td class='step-details'>Wait for radio button - Org administrator<br/>Keyword: WaitForElemPresence | Value: | Element: rd_orgAdmin</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:40 PM</td>
+					<td class='step-details'>Click on radio button - Org administrator<br/>Keyword: ClickOnElement | Value: | Element: rd_orgAdmin</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:41 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:41 PM</td>
+					<td class='step-details'>Wait for loading org type page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_typeofOrg</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:41 PM</td>
+					<td class='step-details'>Click on 'buyer' option<br/>Keyword: ClickOnElement | Value: | Element: rd_buyer</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:42 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:43 PM</td>
+					<td class='step-details'>Wait for loading type of buyer page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_typeOfBuyer</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:45 PM</td>
+					<td class='step-details'>Click on 'central govt' option<br/>Keyword: ClickOnElement | Value: | Element: rd_centralGovt</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:46 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:46 PM</td>
+					<td class='step-details'>Wait for loading 'enter org details' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_orgDetails_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:46 PM</td>
+					<td class='step-details'>Click on 'Companies House' option<br/>Keyword: ClickOnElement | Value: | Element: rd_companiesHouse</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:47 PM</td>
+					<td class='step-details'>Enter COH identifier<br/>Keyword: EnterValue | Value: 111111111| Element: txt_companiesHouse</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:48 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:49 PM</td>
+					<td class='step-details'>Wait for loading 'confirm org' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_confirmOrg</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:50 PM</td>
+					<td class='step-details'>Click on option to confirm org details<br/>Keyword: ClickOnElement | Value: | Element: rd_confirmOrg</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:50 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:51 PM</td>
+					<td class='step-details'>Wait for loading 'create admin account' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_createAdminAccount_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:51 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:52 PM</td>
+					<td class='step-details'>Wait for loading 'sent email confirmation' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_confirmEmailAddress</td>
 				</tr>
 			</tbody>
 		</table>
@@ -418,15 +938,15 @@
 				
 				<li class='test displayed active  pass' status='pass' bdd='false' test-id='5'>
 					<div class='test-heading'>
-						<span class='test-name'>TC001_SignIn</span>
-						<span class='test-time'>Jul 21, 2022 03:05:01 PM</span>
+						<span class='test-name'>TC001_RegisterOrganisation</span>
+						<span class='test-time'>Aug 4, 2022 12:28:33 PM</span>
 						<span class='test-status right pass'>pass</span>
 					</div>
 					<div class='test-content hide'>
 <div class='test-time-info'>
-	<span class='label start-time'>Jul 21, 2022 03:05:01 PM</span>
-	<span class='label end-time'>Jul 21, 2022 03:05:08 PM</span>
-	<span class='label time-taken grey lighten-1 white-text'>0h 0m 6s+711ms</span>
+	<span class='label start-time'>Aug 4, 2022 12:28:33 PM</span>
+	<span class='label end-time'>Aug 4, 2022 12:28:52 PM</span>
+	<span class='label time-taken grey lighten-1 white-text'>0h 0m 18s+549ms</span>
 </div>
 	<div class='test-steps'>
 		<table class='bordered table-results'>
@@ -440,102 +960,168 @@
 			<tbody>
 				<tr class='log' status='debug'>
 					<td class='status debug' title='debug' alt='debug'><i class='material-icons'>low_priority</i></td>
-					<td class='timestamp'>3:05:01 PM</td>
-					<td class='step-details'><span class='label white-text green'>Browser : FIREFOX</span></td>
-				</tr>
-				<tr class='log' status='debug'>
-					<td class='status debug' title='debug' alt='debug'><i class='material-icons'>low_priority</i></td>
-					<td class='timestamp'>3:05:01 PM</td>
-					<td class='step-details'><span class='label white-text green'>OS : WINDOWS</span></td>
-				</tr>
-				<tr class='log' status='pass'>
-					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:01 PM</td>
-					<td class='step-details'>Wait for email field<br/>Keyword: WaitForElemPresence | Value: | Element: txt_email</td>
-				</tr>
-				<tr class='log' status='pass'>
-					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:02 PM</td>
-					<td class='step-details'>Enter email<br/>Keyword: EnterValue | Value: pcc.esourcingtest13@yopmail.com| Element: txt_email</td>
-				</tr>
-				<tr class='log' status='pass'>
-					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:02 PM</td>
-					<td class='step-details'>Enter password<br/>Keyword: EnterValue | Value: Test_12345| Element: txt_password</td>
-				</tr>
-				<tr class='log' status='pass'>
-					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:03 PM</td>
-					<td class='step-details'>Click on sign in button<br/>Keyword: ClickOnElement | Value: | Element: btn_signin</td>
-				</tr>
-				<tr class='log' status='pass'>
-					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:08 PM</td>
-					<td class='step-details'>Wait for dashboard title<br/>Keyword: WaitForElemPresence | Value: | Element: elm_header</td>
-				</tr>
-			</tbody>
-		</table>
-	</div>
-					</div>
-				</li>
-				
-				
-				<li class='test displayed active  pass' status='pass' bdd='false' test-id='6'>
-					<div class='test-heading'>
-						<span class='test-name'>TC001_SignIn</span>
-						<span class='test-time'>Jul 21, 2022 03:05:08 PM</span>
-						<span class='test-status right pass'>pass</span>
-					</div>
-					<div class='test-content hide'>
-<div class='test-time-info'>
-	<span class='label start-time'>Jul 21, 2022 03:05:08 PM</span>
-	<span class='label end-time'>Jul 21, 2022 03:05:16 PM</span>
-	<span class='label time-taken grey lighten-1 white-text'>0h 0m 8s+116ms</span>
-</div>
-	<div class='test-steps'>
-		<table class='bordered table-results'>
-			<thead>
-				<tr>
-					<th>Status</th>
-					<th>Timestamp</th>
-					<th>Details</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr class='log' status='debug'>
-					<td class='status debug' title='debug' alt='debug'><i class='material-icons'>low_priority</i></td>
-					<td class='timestamp'>3:05:08 PM</td>
+					<td class='timestamp'>12:28:33 PM</td>
 					<td class='step-details'><span class='label white-text green'>Browser : CHROME</span></td>
 				</tr>
 				<tr class='log' status='debug'>
 					<td class='status debug' title='debug' alt='debug'><i class='material-icons'>low_priority</i></td>
-					<td class='timestamp'>3:05:08 PM</td>
+					<td class='timestamp'>12:28:33 PM</td>
 					<td class='step-details'><span class='label white-text green'>OS : WINDOWS</span></td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:08 PM</td>
-					<td class='step-details'>Wait for email field<br/>Keyword: WaitForElemPresence | Value: | Element: txt_email</td>
+					<td class='timestamp'>12:28:34 PM</td>
+					<td class='step-details'>Wait for page header to be displayed<br/>Keyword: WaitForElemPresence | Value: | Element: elm_header</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:09 PM</td>
-					<td class='step-details'>Enter email<br/>Keyword: EnterValue | Value: pcc.esourcingtest13@yopmail.com| Element: txt_email</td>
+					<td class='timestamp'>12:28:36 PM</td>
+					<td class='step-details'>Click on create an account button<br/>Keyword: ClickOnElement | Value: | Element: btn_register</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:09 PM</td>
-					<td class='step-details'>Enter password<br/>Keyword: EnterValue | Value: Test_12345| Element: txt_password</td>
+					<td class='timestamp'>12:28:36 PM</td>
+					<td class='step-details'>Wait for loading create account page<br/>Keyword: WaitForElemPresence | Value: | Element: elm_createAccount_header</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:09 PM</td>
-					<td class='step-details'>Click on sign in button<br/>Keyword: ClickOnElement | Value: | Element: btn_signin</td>
+					<td class='timestamp'>12:28:37 PM</td>
+					<td class='step-details'>Click on 'start now' button<br/>Keyword: ClickOnElement | Value: | Element: btn_startNow</td>
 				</tr>
 				<tr class='log' status='pass'>
 					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
-					<td class='timestamp'>3:05:16 PM</td>
-					<td class='step-details'>Wait for dashboard title<br/>Keyword: WaitForElemPresence | Value: | Element: elm_header</td>
+					<td class='timestamp'>12:28:37 PM</td>
+					<td class='step-details'>Wait for loading 'enter details' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_enterDetails_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:38 PM</td>
+					<td class='step-details'>Enter organisation name<br/>Keyword: EnterRandomText | Value: | Element: txt_RegorgName</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:39 PM</td>
+					<td class='step-details'>Enter firstname of user<br/>Keyword: EnterValue | Value: Automation| Element: txt_RegfirstName</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:39 PM</td>
+					<td class='step-details'>Enter last name of user<br/>Keyword: EnterValue | Value: User| Element: txt_ReglastName</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:40 PM</td>
+					<td class='step-details'>Enter email id of user<br/>Keyword: EnterRandomEmail | Value: yopmail.com| Element: txt_Regemail</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:40 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:40 PM</td>
+					<td class='step-details'>Wait for loading 'register your organisation' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_regOrg_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:41 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:41 PM</td>
+					<td class='step-details'>Wait for radio button - Org administrator<br/>Keyword: WaitForElemPresence | Value: | Element: rd_orgAdmin</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:42 PM</td>
+					<td class='step-details'>Click on radio button - Org administrator<br/>Keyword: ClickOnElement | Value: | Element: rd_orgAdmin</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:42 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:43 PM</td>
+					<td class='step-details'>Wait for loading org type page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_typeofOrg</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:43 PM</td>
+					<td class='step-details'>Click on 'buyer' option<br/>Keyword: ClickOnElement | Value: | Element: rd_buyer</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:44 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:44 PM</td>
+					<td class='step-details'>Wait for loading type of buyer page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_typeOfBuyer</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:44 PM</td>
+					<td class='step-details'>Click on 'central govt' option<br/>Keyword: ClickOnElement | Value: | Element: rd_centralGovt</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:44 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:45 PM</td>
+					<td class='step-details'>Wait for loading 'enter org details' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_orgDetails_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:45 PM</td>
+					<td class='step-details'>Click on 'Companies House' option<br/>Keyword: ClickOnElement | Value: | Element: rd_companiesHouse</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:46 PM</td>
+					<td class='step-details'>Enter COH identifier<br/>Keyword: EnterValue | Value: 111111111| Element: txt_companiesHouse</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:47 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:48 PM</td>
+					<td class='step-details'>Wait for loading 'confirm org' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_confirmOrg</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:48 PM</td>
+					<td class='step-details'>Click on option to confirm org details<br/>Keyword: ClickOnElement | Value: | Element: rd_confirmOrg</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:49 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:49 PM</td>
+					<td class='step-details'>Wait for loading 'create admin account' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_createAdminAccount_header</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:50 PM</td>
+					<td class='step-details'>Click on 'continue' button<br/>Keyword: ClickOnElement | Value: | Element: btn_Regcontinue</td>
+				</tr>
+				<tr class='log' status='pass'>
+					<td class='status pass' title='pass' alt='pass'><i class='material-icons'>check_circle</i></td>
+					<td class='timestamp'>12:28:52 PM</td>
+					<td class='step-details'>Wait for loading 'sent email confirmation' page header<br/>Keyword: WaitForElemPresence | Value: | Element: elm_confirmEmailAddress</td>
 				</tr>
 			</tbody>
 		</table>
@@ -577,31 +1163,31 @@
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Tests
-					<div class='panel-lead'>6</div>
+					<div class='panel-lead'>5</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Steps
-					<div class='panel-lead'>30</div>
+					<div class='panel-lead'>155</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Start
-					<div class='panel-lead'>Jul 21, 2022 03:04:55 PM</div>
+					<div class='panel-lead'>Aug 4, 2022 12:28:26 PM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 			 		End
-			 		<div class='panel-lead'>Jul 21, 2022 03:05:18 PM</div>
+			 		<div class='panel-lead'>Aug 4, 2022 12:28:53 PM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Time Taken
-					<div class='panel-lead'>0h 0m 23s+190ms</div>
+					<div class='panel-lead'>0h 0m 26s+598ms</div>
 				</div>
 			</div>
 			<div class='col s4'>
@@ -626,16 +1212,12 @@
 								<td>https://test.identify.crowncommercial.gov.uk/</td>
 							</tr>
 							<tr>
-								<td>Browser: </td>
-								<td>chrome</td>
-							</tr>
-							<tr>
 								<td>OS: </td>
 								<td>Mac OS X</td>
 							</tr>
 							<tr>
 								<td>Version: </td>
-								<td>11.6.7</td>
+								<td>11.6.8</td>
 							</tr>
 					</table>
 				</div>
@@ -650,7 +1232,7 @@
 
 		<script>
 			var statusGroup = {
-				passParent: 6,
+				passParent: 5,
 				failParent: 0,
 				fatalParent: 0,
 				errorParent: 0,
@@ -658,14 +1240,14 @@
 				skipParent: 0,
 				exceptionsParent: 0,
 				
-				passChild: 30,
+				passChild: 155,
 				failChild: 0,
 				fatalChild: 0,
 				errorChild: 0,
 				warningChild: 0,
 				skipChild: 0,
 				infoChild: 0,
-				exceptionsChild: 12,
+				exceptionsChild: 10,
 				
 				passGrandChild: 0,
 				failGrandChild: 0,
