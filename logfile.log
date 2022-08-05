@@ -3801,3 +3801,1235 @@ Session ID: ab58257c261bf1a813f9af1842f3bfdb8732985f
 2022-08-04 15:10:59,085 INFO  [Log] 				TC001_REGBUYERORGANISATION FAIL 
 2022-08-04 15:10:59,085 INFO  [Log] **************************************************************************************** 
 2022-08-04 15:10:59,085 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:28,507 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-05 17:01:28,512 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-05 17:01:28,516 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-05 17:01:28,517 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-05 17:01:28,518 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-05 17:01:29,442 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2022-08-05 17:01:29,443 INFO  [TestBase] Obj repository:7 
+2022-08-05 17:01:29,467 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-05 17:01:29,467 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-05 17:01:29,467 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-05 17:01:29,467 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-05 17:01:29,467 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-05 17:01:29,499 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-05 17:01:29,499 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-05 17:01:29,499 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-05 17:01:29,499 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-05 17:01:29,499 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-05 17:01:39,423 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-05 17:01:39,424 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:39,425 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-05 17:01:39,425 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:39,425 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:39,565 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:01:39,710 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-05 17:01:39,712 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-05 17:01:39,917 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-05 17:01:40,226 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-05 17:01:40,485 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:01:41,292 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-05 17:01:41,292 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:41,293 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-05 17:01:41,293 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:41,293 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:41,295 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:01:41,875 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-05 17:01:41,875 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:41,876 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-05 17:01:41,876 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:41,876 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:41,877 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:01:42,084 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-05 17:01:42,095 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:42,096 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-05 17:01:42,096 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:42,096 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:42,097 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:01:42,259 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-05 17:01:42,259 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-05 17:01:42,260 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-05 17:01:42,260 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-05 17:01:42,487 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-05 17:01:42,489 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-05 17:01:42,493 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-05 17:01:42,776 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-05 17:01:42,804 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-05 17:01:43,296 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-05 17:01:43,485 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-05 17:01:43,795 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-05 17:01:43,989 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:01:44,053 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:01:44,386 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:01:45,331 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-05 17:01:45,331 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:45,331 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-05 17:01:45,332 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:45,332 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:01:45,333 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:01:45,500 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-05 17:01:45,502 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-05 17:01:45,732 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-05 17:01:46,129 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-05 17:01:46,350 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:02:21,872 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.openqa.selenium.NoSuchElementException: Timed out after 10 seconds. Unable to locate the element
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:99)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy14.getText(Unknown Source)
+	at com.ccs.masterPages.ManageElements.clickOnElement(ManageElements.java:46)
+	at com.ccs.masterActions.ActionsClass.ClickOnElement(ActionsClass.java:39)
+	... 22 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='element']"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [4a7a2e68a50baeff7121af41f12557b5061cda8a, findElement {using=css selector, value=*[name='element']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.24 (e47b049c438c..., userDataDir: /var/folders/yj/h3bj394n2tn...}, goog:chromeOptions: {debuggerAddress: localhost:63557}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 4a7a2e68a50baeff7121af41f12...}
+Session ID: 4a7a2e68a50baeff7121af41f12557b5061cda8a
+	at jdk.internal.reflect.GeneratedConstructorAccessor20.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.By$PreW3CLocator.findElement(By.java:429)
+	at org.openqa.selenium.By$ByName.findElement(By.java:238)
+	at org.openqa.selenium.support.ByIdOrName.findElement(ByIdOrName.java:50)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$1.findElement(ElementLocation.java:136)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:39)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:165)
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:72)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:95)
+	... 26 more
+2022-08-05 17:02:24,011 INFO  [TestBase] Closing all the browser. 
+2022-08-05 17:02:25,208 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.openqa.selenium.NoSuchElementException: Timed out after 10 seconds. Unable to locate the element
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:99)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy14.getText(Unknown Source)
+	at com.ccs.masterPages.ManageElements.clickOnElement(ManageElements.java:46)
+	at com.ccs.masterActions.ActionsClass.ClickOnElement(ActionsClass.java:39)
+	... 22 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='element']"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [2a4b45207a12d1d7aed23042c6c5e4e82e57f719, findElement {using=css selector, value=*[name='element']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.24 (e47b049c438c..., userDataDir: C:\Windows\proxy\scoped_dir...}, goog:chromeOptions: {debuggerAddress: localhost:5316}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 2a4b45207a12d1d7aed23042c6c...}
+Session ID: 2a4b45207a12d1d7aed23042c6c5e4e82e57f719
+	at jdk.internal.reflect.GeneratedConstructorAccessor20.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.By$PreW3CLocator.findElement(By.java:429)
+	at org.openqa.selenium.By$ByName.findElement(By.java:238)
+	at org.openqa.selenium.support.ByIdOrName.findElement(ByIdOrName.java:50)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$1.findElement(ElementLocation.java:136)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:39)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:165)
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:72)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:95)
+	... 26 more
+2022-08-05 17:02:25,214 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.openqa.selenium.NoSuchElementException: Timed out after 10 seconds. Unable to locate the element
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:99)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy14.getText(Unknown Source)
+	at com.ccs.masterPages.ManageElements.clickOnElement(ManageElements.java:46)
+	at com.ccs.masterActions.ActionsClass.ClickOnElement(ActionsClass.java:39)
+	... 22 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='element']"}
+  (Session info: MicrosoftEdge=103.0.1264.37)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [5842b6246f3f702600970e129b58a2a27b183d18, findElement {using=css selector, value=*[name='element']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 103.0.1264.37, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:1027}, msedge: {msedgedriverVersion: 103.0.1264.37 (e3a6d3b5b3c3..., userDataDir: C:\Windows\proxy\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 5842b6246f3f702600970e129b5...}
+Session ID: 5842b6246f3f702600970e129b58a2a27b183d18
+	at jdk.internal.reflect.GeneratedConstructorAccessor20.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.By$PreW3CLocator.findElement(By.java:429)
+	at org.openqa.selenium.By$ByName.findElement(By.java:238)
+	at org.openqa.selenium.support.ByIdOrName.findElement(ByIdOrName.java:50)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$1.findElement(ElementLocation.java:136)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:39)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:165)
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:72)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:95)
+	... 26 more
+2022-08-05 17:02:25,538 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.openqa.selenium.NoSuchElementException: Timed out after 10 seconds. Unable to locate the element
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:99)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy14.getText(Unknown Source)
+	at com.ccs.masterPages.ManageElements.clickOnElement(ManageElements.java:46)
+	at com.ccs.masterActions.ActionsClass.ClickOnElement(ActionsClass.java:39)
+	... 22 more
+Caused by: org.openqa.selenium.NoSuchElementException: For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [46024ee982c639c51015a66781e6299bf8b30862, findElement {using=css selector, value=*[name='element']}]
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20G314, safari:platformVersion: 11.6.2, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 46024ee982c639c51015a66781e..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+Session ID: 46024ee982c639c51015a66781e6299bf8b30862
+	at jdk.internal.reflect.GeneratedConstructorAccessor20.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.By$PreW3CLocator.findElement(By.java:429)
+	at org.openqa.selenium.By$ByName.findElement(By.java:238)
+	at org.openqa.selenium.support.ByIdOrName.findElement(ByIdOrName.java:50)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$1.findElement(ElementLocation.java:136)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:39)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:165)
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:72)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:95)
+	... 26 more
+2022-08-05 17:02:25,733 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:25,734 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:25,734 INFO  [Log] 				TC001_ADDDELETECONTACT FAIL 
+2022-08-05 17:02:25,735 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:25,735 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:26,579 INFO  [TestBase] Closing all the browser. 
+2022-08-05 17:02:26,641 INFO  [TestBase] Closing all the browser. 
+2022-08-05 17:02:27,340 INFO  [TestBase] Closing all the browser. 
+2022-08-05 17:02:27,679 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.openqa.selenium.NoSuchElementException: Timed out after 10 seconds. Unable to locate the element
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:99)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy14.getText(Unknown Source)
+	at com.ccs.masterPages.ManageElements.clickOnElement(ManageElements.java:46)
+	at com.ccs.masterActions.ActionsClass.ClickOnElement(ActionsClass.java:39)
+	... 22 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='element']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [b59ccc2ad320a92f1c56dcd319b227547e17f3a0, findElement {using=css selector, value=*[name='element']}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 103.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220718155818, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 68, moz:profile: C:\Windows\proxy\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: b59ccc2ad320a92f1c56dcd319b...}
+Session ID: b59ccc2ad320a92f1c56dcd319b227547e17f3a0
+	at jdk.internal.reflect.GeneratedConstructorAccessor20.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.By$PreW3CLocator.findElement(By.java:429)
+	at org.openqa.selenium.By$ByName.findElement(By.java:238)
+	at org.openqa.selenium.support.ByIdOrName.findElement(ByIdOrName.java:50)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$1.findElement(ElementLocation.java:136)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:39)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:165)
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:72)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:95)
+	... 26 more
+2022-08-05 17:02:27,974 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:27,974 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:27,974 INFO  [Log] 				TC001_ADDDELETECONTACT FAIL 
+2022-08-05 17:02:27,974 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:27,975 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:28,012 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:28,013 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:28,013 INFO  [Log] 				TC001_ADDDELETECONTACT FAIL 
+2022-08-05 17:02:28,013 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:28,013 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:28,764 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:28,764 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:28,765 INFO  [Log] 				TC001_ADDDELETECONTACT FAIL 
+2022-08-05 17:02:28,765 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:28,765 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:29,092 INFO  [TestBase] Closing all the browser. 
+2022-08-05 17:02:30,558 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:30,559 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:30,559 INFO  [Log] 				TC001_ADDDELETECONTACT FAIL 
+2022-08-05 17:02:30,559 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:02:30,559 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:07,413 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-05 17:04:07,418 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-05 17:04:07,427 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-05 17:04:07,429 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-05 17:04:08,301 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2022-08-05 17:04:08,301 INFO  [TestBase] Obj repository:7 
+2022-08-05 17:04:08,327 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-05 17:04:08,327 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-05 17:04:08,327 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-05 17:04:08,327 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-05 17:04:08,327 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-05 17:04:08,352 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-05 17:04:08,352 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-05 17:04:08,352 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-05 17:04:08,352 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-05 17:04:08,352 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-05 17:04:16,872 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-05 17:04:16,873 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:16,873 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-05 17:04:16,873 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:16,874 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:16,990 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:04:18,477 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-05 17:04:18,479 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-05 17:04:18,533 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-05 17:04:18,533 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:18,534 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-05 17:04:18,534 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:18,534 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:18,535 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:04:18,672 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-05 17:04:18,674 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-05 17:04:18,740 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-05 17:04:18,860 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-05 17:04:18,860 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:18,860 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-05 17:04:18,860 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:18,861 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:18,861 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:04:18,875 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-05 17:04:19,042 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-05 17:04:19,043 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-05 17:04:19,231 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-05 17:04:19,451 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-05 17:04:19,512 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-05 17:04:19,512 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:19,512 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-05 17:04:19,513 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:19,513 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:19,514 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:04:19,601 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-05 17:04:19,720 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-05 17:04:19,722 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-05 17:04:19,801 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-05 17:04:19,831 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:04:19,840 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:04:20,006 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-05 17:04:20,078 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:04:20,161 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:04:20,306 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:04:20,506 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-05 17:04:20,716 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:04:21,406 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:04:21,847 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:04:21,951 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-05 17:04:21,951 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:21,951 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-05 17:04:21,952 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:21,952 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:04:21,953 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:04:22,140 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-05 17:04:22,142 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-05 17:04:22,471 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-05 17:04:22,691 INFO  [Executor] Keyword: SaveValue Value: Public Procurement Gateway Dashboard 
+2022-08-05 17:04:22,692 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_dashboardTitle 
+2022-08-05 17:04:22,789 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-05 17:04:22,896 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:04:23,116 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:04:23,312 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:04:23,422 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:04:23,965 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:04:25,342 INFO  [Executor] Keyword: SaveValue Value: Public Procurement Gateway Dashboard 
+2022-08-05 17:04:25,343 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_dashboardTitle 
+2022-08-05 17:04:25,595 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:04:26,716 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:04:26,877 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:04:27,216 INFO  [Executor] Keyword: SaveValue Value: Public Procurement Gateway Dashboard 
+2022-08-05 17:04:27,217 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_dashboardTitle 
+2022-08-05 17:04:27,456 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:04:28,260 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:04:28,386 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:05:04,844 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.openqa.selenium.NoSuchElementException: Timed out after 10 seconds. Unable to locate the element
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:99)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy14.getText(Unknown Source)
+	at com.ccs.masterPages.ManageElements.clickOnElement(ManageElements.java:46)
+	at com.ccs.masterActions.ActionsClass.ClickOnElement(ActionsClass.java:39)
+	... 22 more
+Caused by: org.openqa.selenium.NoSuchElementException: For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [05e4953958a08d8afb877a0d82fa34872da96298, findElement {using=css selector, value=*[name='element']}]
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20G314, safari:platformVersion: 11.6.2, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 05e4953958a08d8afb877a0d82f..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+Session ID: 05e4953958a08d8afb877a0d82fa34872da96298
+	at jdk.internal.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.By$PreW3CLocator.findElement(By.java:429)
+	at org.openqa.selenium.By$ByName.findElement(By.java:238)
+	at org.openqa.selenium.support.ByIdOrName.findElement(ByIdOrName.java:50)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$1.findElement(ElementLocation.java:136)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:39)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:165)
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:72)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:95)
+	... 26 more
+2022-08-05 17:05:08,540 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.openqa.selenium.NoSuchElementException: Timed out after 10 seconds. Unable to locate the element
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:99)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy14.getText(Unknown Source)
+	at com.ccs.masterPages.ManageElements.clickOnElement(ManageElements.java:46)
+	at com.ccs.masterActions.ActionsClass.ClickOnElement(ActionsClass.java:39)
+	... 22 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='element']"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [f9236f0af62c423d5cc9cfb94f23d1a1eb5450ef, findElement {using=css selector, value=*[name='element']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.24 (e47b049c438c..., userDataDir: C:\Windows\proxy\scoped_dir...}, goog:chromeOptions: {debuggerAddress: localhost:7931}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: f9236f0af62c423d5cc9cfb94f2...}
+Session ID: f9236f0af62c423d5cc9cfb94f23d1a1eb5450ef
+	at jdk.internal.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.By$PreW3CLocator.findElement(By.java:429)
+	at org.openqa.selenium.By$ByName.findElement(By.java:238)
+	at org.openqa.selenium.support.ByIdOrName.findElement(ByIdOrName.java:50)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$1.findElement(ElementLocation.java:136)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:39)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:165)
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:72)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:95)
+	... 26 more
+2022-08-05 17:05:09,129 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.openqa.selenium.NoSuchElementException: Timed out after 10 seconds. Unable to locate the element
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:99)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy14.getText(Unknown Source)
+	at com.ccs.masterPages.ManageElements.clickOnElement(ManageElements.java:46)
+	at com.ccs.masterActions.ActionsClass.ClickOnElement(ActionsClass.java:39)
+	... 22 more
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: *[name='element']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [514b9c3f7358bdff1f93032c769eb69bca39e666, findElement {using=css selector, value=*[name='element']}]
+Capabilities {acceptInsecureCerts: false, browserName: firefox, browserVersion: 103.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220718155818, moz:geckodriverVersion: 0.31.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 9752, moz:profile: C:\Windows\proxy\rust_mozpr..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 514b9c3f7358bdff1f93032c769...}
+Session ID: 514b9c3f7358bdff1f93032c769eb69bca39e666
+	at jdk.internal.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.By$PreW3CLocator.findElement(By.java:429)
+	at org.openqa.selenium.By$ByName.findElement(By.java:238)
+	at org.openqa.selenium.support.ByIdOrName.findElement(ByIdOrName.java:50)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$1.findElement(ElementLocation.java:136)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:39)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:165)
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:72)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:95)
+	... 26 more
+2022-08-05 17:05:27,390 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.testng.TestNGException: 
+Element with xpath://h1[@class='govuk-heading-xl page-title margine'] not found in the page.
+	at com.ccs.masterPages.ManageElements.waitForElementPresence(ManageElements.java:75)
+	at com.ccs.masterActions.ActionsClass.WaitForElemPresence(ActionsClass.java:51)
+	... 22 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //h1[@class='govuk-heading-xl page-title margine'] (tried for 30 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:138)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.ccs.masterPages.ManageElements.waitForElementPresence(ManageElements.java:73)
+	... 23 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[@class='govuk-heading-xl page-title margine']"}
+  (Session info: MicrosoftEdge=103.0.1264.37)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [d1c3ef56dc83ecfcad7e47a42709e4634611f47c, findElement {using=xpath, value=//h1[@class='govuk-heading-xl page-title margine']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 103.0.1264.37, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:4364}, msedge: {msedgedriverVersion: 103.0.1264.37 (e3a6d3b5b3c3..., userDataDir: C:\Windows\proxy\scoped_dir...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: d1c3ef56dc83ecfcad7e47a4270...}
+Session ID: d1c3ef56dc83ecfcad7e47a42709e4634611f47c
+	at jdk.internal.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:174)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 24 more
+2022-08-05 17:05:37,586 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.testng.TestNGException: 
+Element with xpath://h1[@class='govuk-heading-xl page-title margine'] not found in the page.
+	at com.ccs.masterPages.ManageElements.waitForElementPresence(ManageElements.java:75)
+	at com.ccs.masterActions.ActionsClass.WaitForElemPresence(ActionsClass.java:51)
+	... 22 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //h1[@class='govuk-heading-xl page-title margine'] (tried for 30 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:138)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.ccs.masterPages.ManageElements.waitForElementPresence(ManageElements.java:73)
+	... 23 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h1[@class='govuk-heading-xl page-title margine']"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [1cd591db28592a490da4f7ae755e77249d39aaee, findElement {using=xpath, value=//h1[@class='govuk-heading-xl page-title margine']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.24 (e47b049c438c..., userDataDir: /var/folders/yj/h3bj394n2tn...}, goog:chromeOptions: {debuggerAddress: localhost:50744}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 1cd591db28592a490da4f7ae755...}
+Session ID: 1cd591db28592a490da4f7ae755e77249d39aaee
+	at jdk.internal.reflect.GeneratedConstructorAccessor19.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:174)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 24 more
+2022-08-05 17:05:37,587 INFO  [TestBase] Closing all the browser. 
+2022-08-05 17:06:11,736 INFO  [TestBase] Closing all the browser. 
+2022-08-05 17:06:16,130 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:06:16,130 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:06:16,130 INFO  [Log] 				TC001_ADDDELETECONTACT FAIL 
+2022-08-05 17:06:16,130 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:06:16,131 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:08:05,847 INFO  [TestBase] Closing all the browser. 
+2022-08-05 17:08:07,442 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:08:07,442 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:08:07,442 INFO  [Log] 				TC001_ADDDELETECONTACT FAIL 
+2022-08-05 17:08:07,443 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:08:07,443 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:08:09,140 INFO  [TestBase] Closing all the browser. 
+2022-08-05 17:08:09,791 INFO  [TestBase] Closing all the browser. 
+2022-08-05 17:08:10,746 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:08:10,747 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:08:10,747 INFO  [Log] 				TC001_ADDDELETECONTACT FAIL 
+2022-08-05 17:08:10,747 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:08:10,747 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:08:11,094 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:08:11,095 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:08:11,095 INFO  [Log] 				TC001_ADDDELETECONTACT FAIL 
+2022-08-05 17:08:11,095 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:08:11,095 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:21:56,517 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-05 17:21:56,523 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-05 17:21:56,533 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-05 17:21:56,537 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-05 17:21:57,436 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2022-08-05 17:21:57,436 INFO  [TestBase] Obj repository:7 
+2022-08-05 17:21:57,459 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-05 17:21:57,488 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-05 17:22:07,558 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-05 17:22:07,559 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:22:07,559 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-05 17:22:07,559 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:22:07,559 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:22:07,673 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:22:07,854 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-05 17:22:07,856 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-05 17:22:08,086 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-05 17:22:08,453 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-05 17:22:08,876 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:22:09,249 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:22:14,038 INFO  [Executor] Keyword: SaveValue Value: Public Procurement Gateway Dashboard 
+2022-08-05 17:22:14,040 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_dashboardTitle 
+2022-08-05 17:22:14,264 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:22:14,783 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:22:14,944 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:22:56,316 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.openqa.selenium.NoSuchElementException: Timed out after 10 seconds. Unable to locate the element
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:99)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at jdk.proxy2/jdk.proxy2.$Proxy14.getText(Unknown Source)
+	at com.ccs.masterPages.ManageElements.clickOnElement(ManageElements.java:46)
+	at com.ccs.masterActions.ActionsClass.ClickOnElement(ActionsClass.java:39)
+	... 22 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='element']"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [2d1239669adb322189bda0a5500afb927143e800, findElement {using=css selector, value=*[name='element']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.24 (e47b049c438c..., userDataDir: C:\Windows\proxy\scoped_dir...}, goog:chromeOptions: {debuggerAddress: localhost:4852}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 2d1239669adb322189bda0a5500...}
+Session ID: 2d1239669adb322189bda0a5500afb927143e800
+	at jdk.internal.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.By$PreW3CLocator.findElement(By.java:429)
+	at org.openqa.selenium.By$ByName.findElement(By.java:238)
+	at org.openqa.selenium.support.ByIdOrName.findElement(ByIdOrName.java:50)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$1.findElement(ElementLocation.java:136)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:39)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:165)
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:72)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:95)
+	... 26 more
+2022-08-05 17:22:58,915 INFO  [TestBase] Closing all the browser. 
+2022-08-05 17:23:00,700 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:23:00,700 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:23:00,700 INFO  [Log] 				TC001_ADDDELETECONTACT FAIL 
+2022-08-05 17:23:00,700 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:23:00,701 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:26:09,969 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-05 17:26:09,974 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-05 17:26:09,978 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-05 17:26:09,981 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-05 17:26:10,882 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2022-08-05 17:26:10,882 INFO  [TestBase] Obj repository:7 
+2022-08-05 17:26:10,908 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-05 17:26:10,930 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-05 17:26:20,032 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-05 17:26:20,033 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:26:20,033 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-05 17:26:20,033 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:26:20,033 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:26:20,138 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:26:20,271 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-05 17:26:20,273 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-05 17:26:20,460 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-05 17:26:21,035 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-05 17:26:21,304 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:26:22,266 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:26:26,038 INFO  [Executor] Keyword: SaveValue Value: Public Procurement Gateway Dashboard 
+2022-08-05 17:26:26,040 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_dashboardTitle 
+2022-08-05 17:26:26,276 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:26:27,756 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:26:27,979 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:26:29,126 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:26:29,254 INFO  [Executor] Keyword: EnterRandomText Value:  
+2022-08-05 17:26:29,783 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:26:30,279 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:26:30,440 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-05 17:26:31,092 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:26:31,453 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:27:02,042 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.testng.TestNGException: 
+Element with xpath://div/p[contains(@class,'govuk-body-l ng-tns') and contains(text(),'updated')] not found in the page.
+	at com.ccs.masterPages.ManageElements.waitForElementPresence(ManageElements.java:75)
+	at com.ccs.masterActions.ActionsClass.WaitForElemPresence(ActionsClass.java:51)
+	... 22 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //div/p[contains(@class,'govuk-body-l ng-tns') and contains(text(),'updated')] (tried for 30 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:138)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.ccs.masterPages.ManageElements.waitForElementPresence(ManageElements.java:73)
+	... 23 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div/p[contains(@class,'govuk-body-l ng-tns') and contains(text(),'updated')]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [6a71fbedd5dc9062bcb576bf5da53fb6b7931571, findElement {using=xpath, value=//div/p[contains(@class,'govuk-body-l ng-tns') and contains(text(),'updated')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.24 (e47b049c438c..., userDataDir: C:\Windows\proxy\scoped_dir...}, goog:chromeOptions: {debuggerAddress: localhost:5951}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 6a71fbedd5dc9062bcb576bf5da...}
+Session ID: 6a71fbedd5dc9062bcb576bf5da53fb6b7931571
+	at jdk.internal.reflect.GeneratedConstructorAccessor17.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:174)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 24 more
+2022-08-05 17:27:04,147 INFO  [TestBase] Closing all the browser. 
+2022-08-05 17:27:06,029 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:27:06,030 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:27:06,030 INFO  [Log] 				TC001_ADDDELETECONTACT FAIL 
+2022-08-05 17:27:06,030 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:27:06,030 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:29:17,172 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-05 17:29:17,178 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-05 17:29:17,185 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-05 17:29:17,188 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-05 17:29:18,089 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2022-08-05 17:29:18,089 INFO  [TestBase] Obj repository:7 
+2022-08-05 17:29:18,115 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-05 17:29:18,139 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-05 17:29:37,752 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-05 17:29:37,752 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:29:37,752 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-05 17:29:37,753 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:29:37,753 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:29:37,876 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:29:38,048 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-05 17:29:38,050 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-05 17:29:39,084 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-05 17:29:40,005 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-05 17:29:40,774 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:29:41,463 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:29:45,635 INFO  [Executor] Keyword: SaveValue Value: Public Procurement Gateway Dashboard 
+2022-08-05 17:29:45,636 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_dashboardTitle 
+2022-08-05 17:29:46,046 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:29:46,759 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:29:47,099 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:29:48,859 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.testng.TestNGException: 
+Error occured while clicking on Add another contact
+	at com.ccs.masterPages.ManageElements.clickOnElement(ManageElements.java:46)
+	at com.ccs.masterActions.ActionsClass.ClickOnElement(ActionsClass.java:39)
+	... 22 more
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button _ngcontent-ram-c283="" type="button" data-module="govuk-button" class="govuk-button govuk-button--secondary">...</button> is not clickable at point (140, 905). Other element would receive the click: <div _ngcontent-ram-c380="" class="overlay ng-star-inserted">...</div>
+  (Session info: chrome=103.0.5060.114)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [3cd1c2a61f3480dbb4514d7bd9579202eeff6eb0, clickElement {id=6afb909f-6aa8-406d-81d3-06564885ee5c}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.24 (e47b049c438c..., userDataDir: C:\Windows\proxy\scoped_dir...}, goog:chromeOptions: {debuggerAddress: localhost:6934}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 3cd1c2a61f3480dbb4514d7bd95...}
+Element: [[RemoteWebDriver: chrome on WINDOWS (3cd1c2a61f3480dbb4514d7bd9579202eeff6eb0)] -> xpath: //button[@class='govuk-button govuk-button--secondary' and contains(text(),'contact')]]
+Session ID: 3cd1c2a61f3480dbb4514d7bd9579202eeff6eb0
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at com.ccs.masterPages.ManageElements.clickOnElement(ManageElements.java:44)
+	... 23 more
+2022-08-05 17:29:51,503 INFO  [TestBase] Closing all the browser. 
+2022-08-05 17:29:53,081 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:29:53,082 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:29:53,082 INFO  [Log] 				TC001_ADDDELETECONTACT FAIL 
+2022-08-05 17:29:53,083 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:29:53,083 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:32:12,960 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-05 17:32:12,965 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-05 17:32:12,971 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-05 17:32:12,974 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-05 17:32:13,886 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2022-08-05 17:32:13,886 INFO  [TestBase] Obj repository:7 
+2022-08-05 17:32:13,913 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-05 17:32:13,936 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-05 17:32:24,463 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-05 17:32:24,465 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:32:24,465 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-05 17:32:24,465 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:32:24,465 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:32:24,570 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:32:24,737 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-05 17:32:24,739 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-05 17:32:24,986 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-05 17:32:25,792 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-05 17:32:26,462 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:32:27,264 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:32:31,691 INFO  [Executor] Keyword: SaveValue Value: Public Procurement Gateway Dashboard 
+2022-08-05 17:32:31,693 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_dashboardTitle 
+2022-08-05 17:32:31,934 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:32:32,472 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:32:32,676 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2022-08-05 17:32:33,724 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:32:35,008 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:32:35,291 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-05 17:32:35,734 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:32:36,104 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:32:36,546 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-05 17:32:37,261 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:32:37,978 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:32:38,335 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:32:38,900 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:32:39,129 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:32:40,947 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:32:41,179 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:32:41,767 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:32:42,008 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-05 17:32:42,512 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-05 17:32:43,432 INFO  [Executor] Keyword: SaveValue Value: You have successfully deleted contact details 
+2022-08-05 17:32:43,433 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_contactdeletedTitle 
+2022-08-05 17:32:44,380 INFO  [TestBase] Closing all the browser. 
+2022-08-05 17:32:46,082 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:32:46,082 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:32:46,083 INFO  [Log] 				TC001_ADDDELETECONTACT PASS 
+2022-08-05 17:32:46,083 INFO  [Log] **************************************************************************************** 
+2022-08-05 17:32:46,083 INFO  [Log] **************************************************************************************** 
