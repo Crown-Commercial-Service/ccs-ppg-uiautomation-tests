@@ -193,3 +193,27 @@ target/test-classes/objectRepository/account.properties
 target/test-classes/objectRepository/createAccount.properties
 target/test-classes/objectRepository/signin.properties
 target/test-classes/objectRepository/site.properties
+screenshots/TC001_AddDeleteContact_08082022_101947.png
+screenshots/TC001_AddDeleteContact_08082022_102022.png
+target/html-report/index.html
+target/surefire-reports/CCS Suite/CCS Test 4.html
+target/surefire-reports/CCS Suite/CCS Test 4.xml
+target/surefire-reports/CCS Suite/CCS Test 5.html
+target/surefire-reports/CCS Suite/CCS Test 5.xml
+target/surefire-reports/old/CCS Suite/CCS Test 4.properties
+target/surefire-reports/old/CCS Suite/CCS Test 5.properties
+target/test-classes/objectRepository/account.properties
+target/test-classes/objectRepository/createAccount.properties
+target/test-classes/objectRepository/signin.properties
+target/test-classes/objectRepository/site.properties
+target/html-report/index.html
+target/surefire-reports/CCS Suite/CCS Test 4.html
+target/surefire-reports/CCS Suite/CCS Test 4.xml
+target/surefire-reports/CCS Suite/CCS Test 5.html
+target/surefire-reports/CCS Suite/CCS Test 5.xml
+target/surefire-reports/old/CCS Suite/CCS Test 4.properties
+target/surefire-reports/old/CCS Suite/CCS Test 5.properties
+target/test-classes/objectRepository/account.properties
+target/test-classes/objectRepository/createAccount.properties
+target/test-classes/objectRepository/signin.properties
+target/test-classes/objectRepository/site.properties

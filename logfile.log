@@ -5033,3 +5033,342 @@ Session ID: 3cd1c2a61f3480dbb4514d7bd9579202eeff6eb0
 2022-08-05 17:32:46,083 INFO  [Log] 				TC001_ADDDELETECONTACT PASS 
 2022-08-05 17:32:46,083 INFO  [Log] **************************************************************************************** 
 2022-08-05 17:32:46,083 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:22,952 INFO  [TestBase] Setting up Test data Excel sheet 
+2022-08-08 10:19:22,956 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2022-08-08 10:19:22,958 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-08 10:19:22,961 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2022-08-08 10:19:23,547 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2022-08-08 10:19:23,547 INFO  [TestBase] Obj repository:7 
+2022-08-08 10:19:23,564 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-08 10:19:23,564 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-08 10:19:23,564 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-08 10:19:23,564 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-08 10:19:23,564 INFO  [Executor] Getting List of Test Cases to execute. 
+2022-08-08 10:19:23,589 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-08 10:19:23,589 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-08 10:19:23,589 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-08 10:19:23,589 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-08 10:19:23,589 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2022-08-08 10:19:33,300 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-08 10:19:33,301 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:33,301 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-08 10:19:33,301 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:33,301 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:33,388 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:33,682 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-08 10:19:33,682 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:33,683 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-08 10:19:33,683 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:33,684 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:33,685 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:33,804 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-08 10:19:33,808 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-08 10:19:33,999 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-08 10:19:34,343 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-08 10:19:34,471 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-08 10:19:34,473 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-08 10:19:34,605 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:34,662 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-08 10:19:34,662 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:34,662 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-08 10:19:34,662 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:34,663 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:34,664 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:34,777 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-08 10:19:34,779 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-08 10:19:34,898 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:34,898 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-08 10:19:35,069 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-08 10:19:35,753 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-08 10:19:35,994 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-08 10:19:36,044 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-08 10:19:36,044 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:36,045 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-08 10:19:36,045 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:36,045 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:36,045 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:36,145 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:36,275 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-08 10:19:36,276 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-08 10:19:36,442 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:36,494 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-08 10:19:36,587 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:37,025 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-08 10:19:37,067 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:37,672 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:38,117 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:38,376 INFO  [Executor] Keyword: SaveValue Value: Public Procurement Gateway Dashboard 
+2022-08-08 10:19:38,377 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_dashboardTitle 
+2022-08-08 10:19:38,418 INFO  [Executor] Keyword: SaveValue Value: Public Procurement Gateway Dashboard 
+2022-08-08 10:19:38,419 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_dashboardTitle 
+2022-08-08 10:19:38,604 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:38,619 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:39,003 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:39,140 INFO  [Executor] Keyword: WaitForElemAbsence Value:  
+2022-08-08 10:19:39,387 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:39,547 INFO  [Executor] Keyword: ScrollIntoView Value:  
+2022-08-08 10:19:39,670 INFO  [Executor] Keyword: WaitForElemAbsence Value:  
+2022-08-08 10:19:39,837 INFO  [Executor] Keyword: ScrollIntoView Value:  
+2022-08-08 10:19:39,885 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2022-08-08 10:19:40,261 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2022-08-08 10:19:40,396 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:40,484 INFO  [Executor] Keyword: SaveValue Value: Public Procurement Gateway Dashboard 
+2022-08-08 10:19:40,484 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_dashboardTitle 
+2022-08-08 10:19:40,667 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:40,726 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:40,766 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:40,840 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-08 10:19:41,072 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:41,126 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:41,213 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:41,215 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-08 10:19:41,315 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2022-08-08 10:19:41,316 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:41,316 INFO  [Log] 				TC001_ADDDELETECONTACT START 
+2022-08-08 10:19:41,317 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:41,317 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:41,318 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:41,402 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:41,418 INFO  [Executor] Keyword: WaitForElemAbsence Value:  
+2022-08-08 10:19:41,485 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2022-08-08 10:19:41,486 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2022-08-08 10:19:41,626 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-08 10:19:41,641 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:41,779 INFO  [Executor] Keyword: EnterValue Value: pcc.esourcingtest13@yopmail.com 
+2022-08-08 10:19:41,898 INFO  [Executor] Keyword: SaveValue Value: Public Procurement Gateway Dashboard 
+2022-08-08 10:19:41,899 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_dashboardTitle 
+2022-08-08 10:19:41,952 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:41,985 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:42,203 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:42,203 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:42,212 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-08 10:19:42,263 INFO  [Executor] Keyword: ScrollIntoView Value:  
+2022-08-08 10:19:42,268 INFO  [Executor] Keyword: EnterValue Value: Test_12345 
+2022-08-08 10:19:42,622 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2022-08-08 10:19:42,667 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:42,770 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:42,914 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:42,924 INFO  [Executor] Keyword: WaitForElemAbsence Value:  
+2022-08-08 10:19:42,934 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:43,243 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:43,245 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:43,325 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:43,341 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:43,381 INFO  [Executor] Keyword: ScrollIntoView Value:  
+2022-08-08 10:19:43,619 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:43,820 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:43,825 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2022-08-08 10:19:43,933 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:44,060 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:44,125 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:44,206 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-08 10:19:44,211 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:44,244 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:44,330 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:44,572 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:44,796 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:45,016 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-08 10:19:45,186 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:45,329 INFO  [Executor] Keyword: SaveValue Value: You have successfully deleted contact details 
+2022-08-08 10:19:45,331 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_contactdeletedTitle 
+2022-08-08 10:19:45,428 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:45,569 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:45,691 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-08 10:19:45,805 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:45,811 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:45,956 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:45,965 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-08 10:19:46,012 INFO  [TestBase] Closing all the browser. 
+2022-08-08 10:19:46,655 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:46,936 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:47,077 INFO  [Executor] Keyword: SaveValue Value: Public Procurement Gateway Dashboard 
+2022-08-08 10:19:47,077 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_dashboardTitle 
+2022-08-08 10:19:47,077 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:47,086 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:47,325 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:47,409 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.testng.TestNGException: 
+Error occured while clicking on  Delete contact details
+	at com.ccs.masterPages.ManageElements.clickOnElement(ManageElements.java:48)
+	at com.ccs.masterActions.ActionsClass.ClickOnElement(ActionsClass.java:39)
+	... 21 more
+Caused by: org.openqa.selenium.WebDriverException: Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [2edd64ac02a41e56a829727b6d3964a13ba624bc, clickElement {id=node-D273CFCA-DA04-4033-896F-C4C3654DAACB}]
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 14.1.2, javascriptEnabled: true, platform: MAC, platformName: MAC, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 20G314, safari:platformVersion: 11.6.2, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webdriver.remote.sessionid: 2edd64ac02a41e56a829727b6d3..., webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+Element: [[RemoteWebDriver: Safari on MAC (2edd64ac02a41e56a829727b6d3964a13ba624bc)] -> xpath: //a[contains(@class,'navigation-text delete-link')]]
+Session ID: 2edd64ac02a41e56a829727b6d3964a13ba624bc
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:251)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at com.ccs.masterPages.ManageElements.clickOnElement(ManageElements.java:46)
+	... 22 more
+2022-08-08 10:19:47,625 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:47,659 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:47,659 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:47,659 INFO  [Log] 				TC001_ADDDELETECONTACT PASS 
+2022-08-08 10:19:47,659 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:47,660 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:47,954 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:48,005 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:48,088 INFO  [Executor] Keyword: WaitForElemAbsence Value:  
+2022-08-08 10:19:48,424 INFO  [TestBase] Closing all the browser. 
+2022-08-08 10:19:48,494 INFO  [Executor] Keyword: ScrollIntoView Value:  
+2022-08-08 10:19:48,534 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:48,725 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:49,117 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:49,135 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2022-08-08 10:19:49,400 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:49,571 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:49,716 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:49,716 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:49,716 INFO  [Log] 				TC001_ADDDELETECONTACT FAIL 
+2022-08-08 10:19:49,716 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:49,716 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:49,744 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:50,046 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:50,116 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:50,265 INFO  [Executor] Keyword: EnterValue Value: Automation 
+2022-08-08 10:19:50,458 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:50,517 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:50,576 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:51,009 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:51,083 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:51,178 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:51,213 INFO  [Executor] Keyword: EnterRandomEmail Value: yopmail.com 
+2022-08-08 10:19:51,257 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:51,446 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:51,464 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:51,589 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:52,123 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:52,476 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:52,552 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:52,824 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:52,976 INFO  [Executor] Keyword: SaveValue Value: You have successfully deleted contact details 
+2022-08-08 10:19:52,977 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_contactdeletedTitle 
+2022-08-08 10:19:53,126 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:53,249 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:53,311 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:53,763 INFO  [TestBase] Closing all the browser. 
+2022-08-08 10:19:55,041 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:55,042 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:55,042 INFO  [Log] 				TC001_ADDDELETECONTACT PASS 
+2022-08-08 10:19:55,042 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:55,043 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:55,379 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:55,507 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:56,054 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:56,176 INFO  [Executor] Keyword: ClickOnElement Value:  
+2022-08-08 10:19:56,716 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2022-08-08 10:19:57,537 INFO  [Executor] Keyword: SaveValue Value: You have successfully deleted contact details 
+2022-08-08 10:19:57,538 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_contactdeletedTitle 
+2022-08-08 10:19:58,225 INFO  [TestBase] Closing all the browser. 
+2022-08-08 10:19:59,592 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:59,592 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:59,593 INFO  [Log] 				TC001_ADDDELETECONTACT PASS 
+2022-08-08 10:19:59,593 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:19:59,593 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:20:21,318 ERROR [Executor] Exception Occurred while executing the step:
+ 
+java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.ccs.masterConfig.Executor.executeAction(Executor.java:75)
+	at com.ccs.masterConfig.Executor.executeTestCase(Executor.java:50)
+	at com.ccs.runner.TestExecutor.testCasesExecutor(TestExecutor.java:46)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:71)
+	at org.testng.internal.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:14)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.testng.TestNGException: 
+Element with xpath://div/p[contains(@class,'govuk-body-l ng-tns') and contains(text(),'deleted')] not found in the page.
+	at com.ccs.masterPages.ManageElements.waitForElementPresence(ManageElements.java:76)
+	at com.ccs.masterActions.ActionsClass.WaitForElemPresence(ActionsClass.java:51)
+	... 21 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //div/p[contains(@class,'govuk-body-l ng-tns') and contains(text(),'deleted')] (tried for 20 second(s) with 500 milliseconds interval)
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:138)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+	at com.ccs.masterPages.ManageElements.waitForElementPresence(ManageElements.java:74)
+	... 22 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div/p[contains(@class,'govuk-body-l ng-tns') and contains(text(),'deleted')]"}
+  (Session info: chrome=103.0.5060.114)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'CO-CC03069', ip: '192.168.8.100', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '11.6.8', java.version: '17'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [3b49b8909f825f576269514c1b747306be04731a, findElement {using=xpath, value=//div/p[contains(@class,'govuk-body-l ng-tns') and contains(text(),'deleted')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 103.0.5060.114, chrome: {chromedriverVersion: 103.0.5060.24 (e47b049c438c..., userDataDir: C:\Windows\proxy\scoped_dir...}, goog:chromeOptions: {debuggerAddress: localhost:7476}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true, webdriver.remote.sessionid: 3b49b8909f825f576269514c1b7...}
+Session ID: 3b49b8909f825f576269514c1b747306be04731a
+	at jdk.internal.reflect.GeneratedConstructorAccessor18.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:367)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:174)
+	at org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:171)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+	... 23 more
+2022-08-08 10:20:23,254 INFO  [TestBase] Closing all the browser. 
+2022-08-08 10:20:24,682 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:20:24,682 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:20:24,682 INFO  [Log] 				TC001_ADDDELETECONTACT FAIL 
+2022-08-08 10:20:24,683 INFO  [Log] **************************************************************************************** 
+2022-08-08 10:20:24,683 INFO  [Log] **************************************************************************************** 
