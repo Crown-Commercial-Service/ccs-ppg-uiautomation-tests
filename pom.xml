@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.ccs</groupId>
 	<artifactId>CCS-Web-Project</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.0a</version>
 
 	<properties>
 		<suiteXmlFile>${basedir}/testng.xml</suiteXmlFile>
@@ -113,7 +113,7 @@
 		<dependency>
 			<groupId>org.ccs</groupId>
 			<artifactId>CCS-Web-Master</artifactId>
-			<version>1.0.1v</version>
+			<version>1.0.1w</version>
 		</dependency>
 	</dependencies>
 </project>
