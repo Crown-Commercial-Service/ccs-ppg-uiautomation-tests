@@ -2,7 +2,7 @@
   "server": "hub-cloud.browserstack.com",
   "capabilities": {
     "project": "PPG",
-    "build": "ccs-ppg-UnitTest-build-",
+    "build": "ccs-ppg-build-",
     "name": "sample tests",
     "browserstack.debug": true
   },
