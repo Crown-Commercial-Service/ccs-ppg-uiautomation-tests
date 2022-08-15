@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="CCS Suite" data-provider-thread-count="3">
+<suite name="CCS Suite" data-provider-thread-count="5">
     <test name="CCS Test 1" parallel="methods">
         <parameter name="config" value="browserstack.config.json"/>
         <parameter name="environment" value="env1"/>
