@@ -4,7 +4,7 @@
   "key": "MwJNdNmGaAAL152GCvpJ",
   "capabilities": {
     "project": "PPG-Test",
-    "build": "ccs-test-ppg-",
+    "build": "ccs-test-ppg-1-",
     "name": "ppg tests",
     "browserstack.debug": true
   },
