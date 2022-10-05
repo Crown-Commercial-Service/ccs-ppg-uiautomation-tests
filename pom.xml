@@ -102,18 +102,18 @@
 		<dependency>
 			<groupId>com.aventstack</groupId>
 			<artifactId>extentreports</artifactId>
-			<version>3.1.5</version>
+			<version>4.0.0</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 		<dependency>
 			<groupId>io.github.bonigarcia</groupId>
 			<artifactId>webdrivermanager</artifactId>
-			<version>3.8.1</version>
+			<version>5.1.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.ccs</groupId>
 			<artifactId>CCS-Web-Master</artifactId>
-			<version>1.0.1w</version>
+			<version>1.0.1.i</version>
 		</dependency>
 	</dependencies>
 </project>
