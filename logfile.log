@@ -26259,3 +26259,130 @@ Session ID: 2b885cd194fded51dfb0bed00e011abfe1c9ec51
 2023-01-12 15:49:16,685 INFO  [Log] 				TC010_CCSADMINADDROLESTOORG FAIL 
 2023-01-12 15:49:16,686 INFO  [Log] **************************************************************************************** 
 2023-01-12 15:49:16,686 INFO  [Log] **************************************************************************************** 
+2023-01-13 10:26:33,479 INFO  [TestBase] Setting up Test data Excel sheet 
+2023-01-13 10:26:33,484 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/screenshots/ 
+2023-01-13 10:26:33,488 INFO  [Directory] Clearing content in below folder: 
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2023-01-13 10:26:33,491 INFO  [Directory] Directory was created
+/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/target/html-report/ 
+2023-01-13 10:26:34,441 INFO  [TestBase] Obj repository:/Users/mibin.boban/Documents/Automation/Conclave UI/ccs-ppg-uiautomation-tests/src/test/resources/objectRepository/ 
+2023-01-13 10:26:34,442 INFO  [TestBase] Obj repository:9 
+2023-01-13 10:26:34,470 INFO  [Executor] Getting List of Test Cases to execute. 
+2023-01-13 10:26:34,510 INFO  [TestBase] http://mibinboban_SD8s0p:MwJNdNmGaAAL152GCvpJ@hub-cloud.browserstack.com/wd/hub 
+2023-01-13 10:26:43,268 INFO  [Log] ********************************CCS Enterprise Test Automation*************************************** 
+2023-01-13 10:26:43,269 INFO  [Log] **************************************************************************************** 
+2023-01-13 10:26:43,269 INFO  [Log] 				TC010_CCSADMINADDROLESTOORG START 
+2023-01-13 10:26:43,269 INFO  [Log] **************************************************************************************** 
+2023-01-13 10:26:43,269 INFO  [Log] **************************************************************************************** 
+2023-01-13 10:26:43,357 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:26:43,458 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2023-01-13 10:26:43,460 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2023-01-13 10:26:43,607 INFO  [Executor] Keyword: EnterValue Value: seauto-1@mailinator.com 
+2023-01-13 10:26:43,881 INFO  [Executor] Keyword: EnterValue Value: Test_12346 
+2023-01-13 10:26:44,108 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:26:46,938 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:26:48,451 INFO  [Executor] Keyword: SaveValue Value: Public Procurement Gateway Dashboard 
+2023-01-13 10:26:48,453 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_dashboardTitle 
+2023-01-13 10:26:48,895 INFO  [Executor] Keyword: ScrollIntoView Value:  
+2023-01-13 10:26:49,285 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2023-01-13 10:26:49,595 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:26:50,004 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:26:50,619 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2023-01-13 10:26:50,850 INFO  [Executor] Keyword: SaveValue Value: ALOPECIA UK 
+2023-01-13 10:26:50,852 INFO  [Executor] Keyword: EnterValue Value: ALOPECIA UK 
+2023-01-13 10:26:51,091 INFO  [Executor] Keyword: PressEnterKey Value:  
+2023-01-13 10:26:52,254 INFO  [Executor] Keyword: WaitForElemAbsence Value:  
+2023-01-13 10:26:52,345 INFO  [Executor] Keyword: HighlightElement Value:  
+2023-01-13 10:26:53,052 INFO  [Executor] Keyword: ClickWithParameter Value: var_searchForOrg 
+2023-01-13 10:26:53,054 INFO  [TestBase] Updated xpath: //td/span[contains(text(),'ALOPECIA UK')] 
+2023-01-13 10:26:53,465 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:26:53,863 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:26:53,990 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2023-01-13 10:26:54,265 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:26:54,841 INFO  [Executor] Keyword: WaitForElemAbsence Value:  
+2023-01-13 10:26:55,011 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:26:55,111 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2023-01-13 10:26:55,428 INFO  [Executor] Keyword: ScrollIntoView Value:  
+2023-01-13 10:26:55,643 INFO  [Executor] Keyword: HighlightElement Value:  
+2023-01-13 10:26:56,356 INFO  [Executor] Keyword: UnCheckOption Value:  
+2023-01-13 10:26:56,501 INFO  [Executor] Keyword: SelectCheckbox Value:  
+2023-01-13 10:26:56,761 INFO  [Executor] Keyword: ScrollIntoView Value:  
+2023-01-13 10:26:57,008 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:26:57,456 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:26:57,587 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2023-01-13 10:26:57,907 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:26:58,252 INFO  [Executor] Keyword: WaitForElemAbsence Value:  
+2023-01-13 10:26:58,488 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:26:58,888 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2023-01-13 10:26:59,211 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:26:59,566 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:27:00,914 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2023-01-13 10:27:00,916 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2023-01-13 10:27:01,034 INFO  [Executor] Keyword: EnterValue Value: seauto-1@mailinator.com 
+2023-01-13 10:27:01,248 INFO  [Executor] Keyword: EnterValue Value: Test_12346 
+2023-01-13 10:27:01,444 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:27:01,836 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:27:03,846 INFO  [Executor] Keyword: SaveValue Value: Public Procurement Gateway Dashboard 
+2023-01-13 10:27:03,847 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_dashboardTitle 
+2023-01-13 10:27:04,189 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2023-01-13 10:27:04,402 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:27:04,738 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:27:04,835 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2023-01-13 10:27:05,082 INFO  [Executor] Keyword: EnterValue Value: auto-orguser@mailinator.com 
+2023-01-13 10:27:05,342 INFO  [Executor] Keyword: SaveValue Value: auto-orguser@mailinator.com 
+2023-01-13 10:27:05,343 INFO  [Executor] Keyword: PressEnterKey Value:  
+2023-01-13 10:27:05,695 INFO  [Executor] Keyword: ClickWithParameter Value: var_useremail 
+2023-01-13 10:27:05,697 INFO  [TestBase] Updated xpath: //span[contains(text(),'auto-orguser@mailinator.com')]/following::td/a[1] 
+2023-01-13 10:27:07,123 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:27:07,193 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2023-01-13 10:27:07,487 INFO  [Executor] Keyword: ScrollIntoView Value:  
+2023-01-13 10:27:08,341 INFO  [Executor] Keyword: HighlightElement Value:  
+2023-01-13 10:27:09,035 INFO  [Executor] Keyword: SelectCheckbox Value:  
+2023-01-13 10:27:09,308 INFO  [Executor] Keyword: ScrollIntoView Value:  
+2023-01-13 10:27:09,570 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:27:10,016 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:27:11,603 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2023-01-13 10:27:11,859 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:27:12,183 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:27:13,427 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2023-01-13 10:27:13,428 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2023-01-13 10:27:13,590 INFO  [Executor] Keyword: EnterValue Value: seauto-1@mailinator.com 
+2023-01-13 10:27:13,800 INFO  [Executor] Keyword: EnterValue Value: Test_12346 
+2023-01-13 10:27:14,035 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:27:14,469 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:27:16,322 INFO  [Executor] Keyword: SaveValue Value: Public Procurement Gateway Dashboard 
+2023-01-13 10:27:16,323 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_dashboardTitle 
+2023-01-13 10:27:16,457 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:27:16,959 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:27:17,055 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2023-01-13 10:27:17,703 INFO  [Executor] Keyword: EnterSavedValue Value: var_searchForOrg 
+2023-01-13 10:27:17,957 INFO  [Executor] Keyword: PressEnterKey Value:  
+2023-01-13 10:27:18,411 INFO  [Executor] Keyword: ClickWithParameter Value: var_searchForOrg 
+2023-01-13 10:27:18,411 INFO  [TestBase] Updated xpath: //td/span[contains(text(),'ALOPECIA UK')] 
+2023-01-13 10:27:19,286 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:27:19,638 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:27:19,702 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2023-01-13 10:27:19,939 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:27:20,295 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:27:20,966 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2023-01-13 10:27:21,210 INFO  [Executor] Keyword: ScrollIntoView Value:  
+2023-01-13 10:27:21,386 INFO  [Executor] Keyword: HighlightElement Value:  
+2023-01-13 10:27:22,145 INFO  [Executor] Keyword: UnCheckOption Value:  
+2023-01-13 10:27:22,452 INFO  [Executor] Keyword: ScrollIntoView Value:  
+2023-01-13 10:27:22,657 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:27:23,360 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:27:24,211 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2023-01-13 10:27:24,487 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:27:25,023 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:27:25,743 INFO  [Executor] Keyword: WaitForElemClickable Value:  
+2023-01-13 10:27:26,131 INFO  [Executor] Keyword: ClickOnElement Value:  
+2023-01-13 10:27:27,798 INFO  [Executor] Keyword: WaitForElemPresence Value:  
+2023-01-13 10:27:29,114 INFO  [Executor] Keyword: SaveValue Value: Sign in to the Public Procurement Gateway 
+2023-01-13 10:27:29,115 INFO  [Executor] Keyword: VerifyWithSavedValue Value: expected_message 
+2023-01-13 10:27:30,132 INFO  [TestBase] Closing all the browser. 
+2023-01-13 10:27:31,838 INFO  [Log] **************************************************************************************** 
+2023-01-13 10:27:31,839 INFO  [Log] **************************************************************************************** 
+2023-01-13 10:27:31,839 INFO  [Log] 				TC010_CCSADMINADDROLESTOORG PASS 
+2023-01-13 10:27:31,839 INFO  [Log] **************************************************************************************** 
+2023-01-13 10:27:31,839 INFO  [Log] **************************************************************************************** 
